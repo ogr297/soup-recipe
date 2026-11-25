@@ -1,0 +1,36 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.yuanbao.souprecipe'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.yuanbao.souprecipe'
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName '1.0'
+    }
+
+    // GitHub Actions 用 assembleDebug 出可直接侧载安装嘅 APK（debug keystore 自动生）
+    buildTypes {
+        debug {
+            debuggable false
+            minifyEnabled false
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    // 内嵌网页放喺 assets/www，唔使任何网络权限以外嘅依赖
+    sourceSets {
+        main {
+            assets.srcDirs = ['src/main/assets']
+        }
+    }
+}
