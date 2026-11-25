@@ -120,8 +120,8 @@ public class MainActivity extends Activity {
                     try {
                         URL u = new URL(url);
                         HttpURLConnection c = (HttpURLConnection) u.openConnection();
-                        c.setConnectTimeout(3500);
-                        c.setReadTimeout(3500);
+                        c.setConnectTimeout(8000);
+                        c.setReadTimeout(10000);
                         c.setRequestMethod("GET");
                         c.setRequestProperty("Accept", "application/json, text/plain, */*");
                         c.setRequestProperty("Cache-Control", "no-cache");
@@ -135,7 +135,7 @@ public class MainActivity extends Activity {
                         int n;
                         while ((n = in.read(buf)) > 0) {
                             bo.write(buf, 0, n);
-                            if (bo.size() > 2 * 1024 * 1024) {   // 上限 2MB，防傻仔档案
+                            if (bo.size() > 5 * 1024 * 1024) {   // 上限 5MB，防傻仔档案
                                 throw new IOException("份 JSON 大得滞");
                             }
                         }
