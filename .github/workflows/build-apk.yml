@@ -5,8 +5,8 @@ on:
     branches: [ main ]
     paths-ignore:
       - '**.md'
-      - 'soups.json'
-  workflow_dispatch:
+      - 'soups.json'          # 净系改汤谱内容唔使重新出 APK
+  workflow_dispatch:          # 亦可以喺 Actions 页手动撳「Run workflow」
 
 jobs:
   build:
@@ -21,11 +21,10 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: 装 Android SDK
-        uses: android-actions/setup-android@v3
-
-      - name: 接受授权 + 装 platform / build-tools
+      - name: 接受授权 + 装 platform / build-tools（用 runner 预装嘅 Android SDK，唔再经 setup-android）
         run: |
+          export PATH="$ANDROID_SDK_ROOT/cmdline-tools/latest/bin:$ANDROID_HOME/cmdline-tools/latest/bin:$PATH"
+          which sdkmanager
           yes | sdkmanager --licenses > /dev/null || true
           sdkmanager "platforms;android-35" "build-tools;35.0.0" "platform-tools" > /dev/null
 
