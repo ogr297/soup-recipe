@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  屋企 NAS / 电脑多数系 http://192.168.x.x，Android 9 起默认禁明文流量，
+  所以呢度开返 cleartext。净系建议填屋企内网地址，唔好摆公网 http。
+  若果你部 NAS 有 HTTPS，直接填 https:// 就得，呢个设定一样兼容。
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
