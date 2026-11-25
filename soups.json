@@ -1,6 +1,13 @@
 {
-  "version": "2026-11-25.2",
+  "version": "2026-11-25.3",
   "updated": "2026-11-25",
+  "about": {
+    "title": "呢个系咩",
+    "intro": "一个离线可用嘅省中医汤谱速查 App。数据来自广东省中医院微信公众号「每日一膳」栏目嘅煲汤／炖汤，冇网络都查到、搜到、收藏到；一有网络就自动同步最新汤谱。",
+    "scope": "净收广东省中医院微信公众号「每日一膳」正栏嘅煲汤／炖汤，认方唔认篇：同一汤名＋核心材料组只留一张，其他媒体转载唔另开卡。糖水、粥、羹、焖菜、火锅／涮汤一律唔收。",
+    "reminder": "汤谱系日常食养参考，唔替代睇医生。感冒发热、怀孕、慢性病、长期服药、细路同老人家，煲之前按每款写低嘅禁忌对一对，唔确定就问医师。",
+    "range": "「每日一膳」2026-09-25 ～ 11-25"
+  },
   "note": "净收广东省中医院微信公众号「每日一膳」正栏煲汤／炖汤；其他媒体唔另开新卡",
   "soups": [
     {
@@ -36,7 +43,10 @@
         "（正栏原文）"
       ],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
     },
     {
       "id": 2,
@@ -69,7 +79,10 @@
       "url": "http://mp.weixin.qq.com/s?__biz=MzA3MjkwMTc5Mw==&mid=2653168631&idx=3&sn=6c6dc3c0998f0a2f6d871e47e93a2fbd",
       "alsoIn": [],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
     },
     {
       "id": 3,
@@ -104,7 +117,10 @@
         "健康广东转载同一篇「每日一膳」"
       ],
       "origin": "daily-repost",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
     },
     {
       "id": 4,
@@ -135,7 +151,10 @@
         "健康广东「每日一膳」同期稿（黄穗平主任中医师）"
       ],
       "origin": "daily-repost",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
     },
     {
       "id": 5,
@@ -167,7 +186,10 @@
       "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652512683&idx=3&sn=ca038b0233eb8d3c2d5b7081755965d1",
       "alsoIn": [],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
     },
     {
       "id": 6,
@@ -198,7 +220,11 @@
       "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652580855&idx=2&sn=a1890dba93d3a07e5fd7441ef6c07340",
       "alsoIn": [],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": 7,
@@ -230,36 +256,42 @@
       "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652580676&idx=2&sn=1ebd61dde585bd8a1f379915620c3abd",
       "alsoIn": [],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
     },
     {
       "id": 8,
       "cat": "daily",
       "period": "立冬 · 补嘴空",
       "tags": [
-        "平补",
-        "资料残缺"
+        "平补"
       ],
       "star": false,
-      "name": "平补靓汤（花生核桃鸡脚香菇）",
+      "name": "香菇花生核桃煲鸡脚",
       "ing": [
-        "花生",
-        "核桃",
-        "鸡脚",
-        "香菇",
-        "（原页面材料表截断，缺克数同完整做法）"
+        "香菇（干） 6个",
+        "花生仁 50g",
+        "核桃肉 50g",
+        "生姜 3片",
+        "鸡脚 10只"
       ],
       "steps": [
-        "⚠️ 检索到嘅转载页面材料表被截断，净系由医生点评确认到以上四样食材",
-        "要对照广东省中医院公众号原文图片先好照住煲"
+        "鸡脚洗干净焯水；香菇、花生、核桃肉洗净",
+        "向锅内加入适量开水，煮沸后放入全部食材",
+        "大火煮开转小火煲约 1 小时，加盐调味"
       ],
-      "note": "花生健脾养胃、润肺化痰；核桃补肾益精；鸡脚富含胶原蛋白，配香菇鲜香，补而不燥、香而不腻。",
-      "caution": "资料唔完整，唔建议直接照住落料。",
+      "note": "花生健脾养胃、润肺化痰；核桃补肾益精；鸡脚富含胶原蛋白，配香菇鲜香，补而不燥、香而不腻。适合立冬进补首周，先以清补打底。",
+      "caution": "—",
       "src": "广东省中医院《每日一膳｜民谚说立冬要补嘴空，别急猛补！先来一锅平补靓汤》",
       "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1795537409&ver=7108&signature=i7VAT3HUwnPGX2aeMp1xEqGZMO7kvuNRtJTi7GybZSacjjK32ebo6Q0QnZw*-mlrpEiBsVY*TW*K3fbpg2sXRbtyhz1eb3D7JUUKBRIMNlH8RZAKRMs-hjjEvjuMDrXC&new=1",
       "alsoIn": [],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
     },
     {
       "id": 9,
@@ -301,7 +333,10 @@
         "望舌问膳"
       ],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
     },
     {
       "id": 10,
@@ -340,7 +375,10 @@
         "健康广东"
       ],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
     },
     {
       "id": 11,
@@ -377,7 +415,11 @@
       "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652581157&idx=1&sn=21eaf1da35b8828abaef67b865b3ecaf",
       "alsoIn": [],
       "origin": "daily",
-      "dupGroup": "沙参玉竹淮山百合煲瘦肉"
+      "dupGroup": "沙参玉竹淮山百合煲瘦肉",
+      "season": [
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": 12,
@@ -416,7 +458,11 @@
         "健康广东（同一方嘅另一版本，克数有出入）"
       ],
       "origin": "daily-repost",
-      "dupGroup": "沙参玉竹淮山百合煲瘦肉"
+      "dupGroup": "沙参玉竹淮山百合煲瘦肉",
+      "season": [
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": 13,
@@ -454,7 +500,10 @@
       "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1795537402&ver=7108&signature=i7VAT3HUwnPGX2aeMp1xEqGZMO7kvuNRtJTi7GybZSZf*MhjH9vbsOzfX9-JOwpXlUbbpoT*iPBlZqicNsbleWdbde403kWFMHjI0a3OwSUGNrIMdnpVAYsCvz6YcpmR&new=1",
       "alsoIn": [],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
     },
     {
       "id": 14,
@@ -483,7 +532,10 @@
       "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652581908&idx=1&sn=eace1c2c79dd1fcf54fbce7b23b46f7f",
       "alsoIn": [],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
     },
     {
       "id": 15,
@@ -513,7 +565,10 @@
       "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652581890&idx=1&sn=76b60ffa3153be3b8c659db5a9239750",
       "alsoIn": [],
       "origin": "daily",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
     },
     {
       "id": 16,
@@ -551,7 +606,10 @@
         "南方都市报 N 视频 × 省中医 · 秋分"
       ],
       "origin": "media",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
     },
     {
       "id": 17,
@@ -587,7 +645,10 @@
         "腾讯新闻转载省中医医师稿 · 寒露"
       ],
       "origin": "media",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
     },
     {
       "id": 18,
@@ -626,7 +687,10 @@
         "腾讯新闻转载 · 霜降"
       ],
       "origin": "media",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
     },
     {
       "id": 19,
@@ -661,7 +725,47 @@
         "南方都市报 N 视频 × 省中医 · 小雪"
       ],
       "origin": "media",
-      "dupGroup": ""
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 20,
+      "cat": "daily",
+      "period": "11/17 · 立冬后",
+      "tags": [
+        "润肺",
+        "清补"
+      ],
+      "star": false,
+      "name": "三参润肺汤",
+      "ing": [
+        "太子参 30g",
+        "沙参 30g",
+        "玄参 15g",
+        "水鸭 半只",
+        "陈皮 适量",
+        "生姜 适量",
+        "食盐 适量"
+      ],
+      "steps": [
+        "水鸭斩件洗净，焯水后同生姜稍爆炒",
+        "锅内加水煮沸，放入所有食材，大火烧开转小火煲 1 小时",
+        "加盐调味"
+      ],
+      "note": "玄参补阴液治便秘、咽干口燥；太子参补气生津、药性平稳；沙参补肝肺之阴去虚火。水鸭同生姜炒过，寒性大减。缓解咽干鼻燥、干咳无痰、便秘、皮肤干燥。",
+      "caution": "风寒所引起的咳嗽、咽喉不适与便溏者不宜。",
+      "src": "广东省中医院《每日一膳｜体虚一补就上火，一碗汤水化解咽干鼻燥》（2026-11-17）",
+      "url": "https://www.21jingji.com/article/20261117/herald/1e86f66fddc57e319a75320460c673bb.html",
+      "alsoIn": [
+        "21经济网转载广东省中医院原文"
+      ],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
     }
   ],
   "scope": {
