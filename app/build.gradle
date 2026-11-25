@@ -10,8 +10,8 @@ android {
         applicationId 'com.yuanbao.souprecipe'
         minSdk 24
         targetSdk 35
-        versionCode 1
-        versionName '1.0'
+        versionCode 2
+        versionName '1.1'
     }
 
     // GitHub Actions 用 assembleDebug 出可直接侧载安装嘅 APK（debug keystore 自动生）
