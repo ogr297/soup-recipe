@@ -1,12 +1,12 @@
 {
-  "version": "2026-11-25.3",
+  "version": "2026-11-25.4",
   "updated": "2026-11-25",
   "about": {
     "title": "呢个系咩",
-    "intro": "一个离线可用嘅省中医汤谱速查 App。数据来自广东省中医院微信公众号「每日一膳」栏目嘅煲汤／炖汤，冇网络都查到、搜到、收藏到；一有网络就自动同步最新汤谱。",
-    "scope": "净收广东省中医院微信公众号「每日一膳」正栏嘅煲汤／炖汤，认方唔认篇：同一汤名＋核心材料组只留一张，其他媒体转载唔另开卡。糖水、粥、羹、焖菜、火锅／涮汤一律唔收。",
+    "intro": "一个离线可用嘅汤谱速查 App。数据以广东省中医院「每日一膳」为主，兼收广州中医药大学第一附属医院、深圳市中医院、中山大学附属第一医院嘅药膳汤谱，冇网络都查到、搜到、收藏到；一有网络就自动同步最新汤谱。",
+    "scope": "净收四家医院官方栏目嘅煲汤／炖汤：广东省中医院「每日一膳」为主，兼收广中医一附院、深圳市中医院、中山一院嘅药膳／节气汤谱。认方唔认篇：同一汤名＋核心材料组只留一张，其他来源同方只记入来源备注。糖水、粥、羹、焖菜、火锅／涮汤一律唔收。",
     "reminder": "汤谱系日常食养参考，唔替代睇医生。感冒发热、怀孕、慢性病、长期服药、细路同老人家，煲之前按每款写低嘅禁忌对一对，唔确定就问医师。",
-    "range": "「每日一膳」2026-09-25 ～ 11-25"
+    "range": "四家名院汤谱 · 2015 ～ 2026"
   },
   "note": "净收广东省中医院微信公众号「每日一膳」正栏煲汤／炖汤；其他媒体唔另开新卡",
   "soups": [
@@ -765,6 +765,5905 @@
       "dupGroup": "",
       "season": [
         "冬"
+      ]
+    },
+    {
+      "id": 21,
+      "cat": "expert",
+      "period": "2026-11-16 · 小雪前",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "沙参玉竹淮杞汤",
+      "ing": [
+        "猪腱子肉或排骨250克",
+        "沙参15克",
+        "玉竹15克",
+        "鲜山药1根",
+        "枸杞子10克",
+        "红枣1-2枚",
+        "桂圆肉3-5枚",
+        "陈皮1片"
+      ],
+      "steps": [
+        "煲90分钟"
+      ],
+      "note": "益胃养阴、健脾清润，寒渐盛而燥未退",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《天气转凉，寒邪渐盛！全国名中医推荐这款“清润汤”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651243648&idx=1&sn=85a1ac44cdf58efa3f619b1c53622e17&chksm=8af26a2ab78721dbda8159e8f32ffbc8648afce14c2c8bec381bd3dcf44bdf15f293b349f358#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 22,
+      "cat": "expert",
+      "period": "2026-11-01 · 霜降前",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "淮山"
+      ],
+      "star": false,
+      "name": "黑豆黑枸杞羊肉汤",
+      "ing": [
+        "羊肉500克",
+        "黑豆100克",
+        "黑枸杞10克",
+        "鲜山药1根",
+        "桂圆肉5-8枚",
+        "红枣2枚",
+        "生姜1块",
+        "陈皮1瓣"
+      ],
+      "steps": [
+        "文火煲60分钟"
+      ],
+      "note": "滋阴养阳、补肾暖身，秋深风起家常补汤",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《秋补不必贵！这碗黑豆黑枸杞羊肉汤，暖胃又补肾》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651242671&idx=1&sn=458ed3dc97e46cb16b30fb9fd546307f&chksm=8a33d6a02c9521b1c7b7046f13b371c594c43504e5fbdc61862b35227ee630f623aa7aa3c9a2#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 23,
+      "cat": "expert",
+      "period": "2026-09-23 · 秋分",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "苋菜鲫鱼汤",
+      "ing": [
+        "鲫鱼1条",
+        "红苋菜",
+        "红枣",
+        "生姜",
+        "葱（均原文未标克数）"
+      ],
+      "steps": [],
+      "note": "清热祛湿、健脾益肺、滋补强肾（岭南“秋汤”习俗）",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《秋分后最易伤肺津！诱发感冒、咳嗽、鼻炎……养生这样做》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656104608&idx=1&sn=8d530806dd2f569f69de52edb85de85d&chksm=8aa8de6594e13eb31696a2ce0ab84f1ec40874006fd91aa72a332db0b5a450b831130973cef4#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 24,
+      "cat": "expert",
+      "period": "2026-09-23 · 秋分",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "莲藕"
+      ],
+      "star": false,
+      "name": "莲藕玉米排骨汤",
+      "ing": [
+        "排骨（未标克数）",
+        "莲藕",
+        "玉米",
+        "姜3片",
+        "盐"
+      ],
+      "steps": [
+        "小火煲1-1.5小时"
+      ],
+      "note": "除烦生津、补中消食",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 25,
+      "cat": "expert",
+      "period": "2026-09-13 · 白露",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "莲藕"
+      ],
+      "star": false,
+      "name": "莲藕粉葛汤",
+      "ing": [
+        "排骨250克（可素）",
+        "莲藕约300克",
+        "粉葛300-500克",
+        "赤小豆100克",
+        "炒扁豆50克",
+        "陈皮1片",
+        "生姜1块"
+      ],
+      "steps": [],
+      "note": "健脾祛湿，台风阵雨后湿气未散的岭南家常汤",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《秋风渐起，湿气却“赖着不走”…莲藕粉葛汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651238958&idx=1&sn=71de3322cf12b87cbc77b3f20d341253&chksm=8a3664ba44276d35a4b3af229c1468c31a9b455efc6741e3d68f4e1ca7cf195f6d16d20ef7a3#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 26,
+      "cat": "daily",
+      "period": "2026-09-02 · 白露前",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "玉竹沙参百合润燥汤",
+      "ing": [
+        "猪展肉250g",
+        "北玉竹20g",
+        "北沙参15g",
+        "干百合20g",
+        "麦冬10g",
+        "南杏仁10g",
+        "无花果2枚",
+        "陈皮1瓣"
+      ],
+      "steps": [
+        "煲1小时"
+      ],
+      "note": "养阴润肺、益胃安神，白露前润燥模板方",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜白露将至燥气起，玉竹沙参百合汤，养阴润肺正当时》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652572871&idx=1&sn=2f85c128abb21fe17f699d57b76a71e7&chksm=8ad1fec6d46183cf01e5a41d1fa283d5cdcb6f4c3cb46c67f2683a75521b4a66e57a4b78a7c7#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 27,
+      "cat": "expert",
+      "period": "2026-08-28 · 处暑",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "淮山"
+      ],
+      "star": false,
+      "name": "百合杏仁山药润燥养颜汤",
+      "ing": [
+        "无（可加瘦肉或排骨）",
+        "鲜百合100克（干品30克）",
+        "鲜山药1根",
+        "甜杏仁50克",
+        "蜜枣1枚",
+        "陈皮6克",
+        "桂圆肉5枚"
+      ],
+      "steps": [
+        "煲30-45分钟"
+      ],
+      "note": "润燥养颜，处暑“争秋夺暑”清润汤",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊｜百合杏仁山药润燥养颜汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247520275&idx=1&sn=87b6b87a6e32b69956a6c7c9217f7588&chksm=fdd28dfe65823f53e187d42b2e2531efd618f92b83bc0dcee28d8a0a3bb6ec22a6df76cac5c7#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 28,
+      "cat": "expert",
+      "period": "2026-08-26 · 处暑后",
+      "tags": [
+        "平补",
+        "淮山"
+      ],
+      "star": false,
+      "name": "清补凉瘦肉汤",
+      "ing": [
+        "猪瘦肉300克",
+        "北沙参20克",
+        "玉竹20克",
+        "雪梨1个（约300克）",
+        "山药20克",
+        "芡实20克",
+        "莲蓬1个"
+      ],
+      "steps": [],
+      "note": "清补平和、滋养气阴，先清后润第一汤",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」《破解岭南“秋燥+暑湿”，6款秋季靓汤推荐丨绘健康》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651237296&idx=1&sn=fa01ab1225486078fd47ed7a86c4c75b&chksm=8ad97f0f156e336228adf33118acbaef07d4ecb6f0373c117c63c0621ebbee6b89aa899668ba#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 29,
+      "cat": "expert",
+      "period": "2026-08-26 · 处暑后",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "四神猪肚汤（或四神排骨汤）",
+      "ing": [
+        "猪肚1个（约500克）或排骨",
+        "茯苓",
+        "山药",
+        "莲子",
+        "薏米",
+        "芡实各10克",
+        "枸杞6克",
+        "姜片5片",
+        "胡椒粒约10粒"
+      ],
+      "steps": [],
+      "note": "健脾祛湿、和胃止泻，雨季肠胃紊乱宜",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 30,
+      "cat": "expert",
+      "period": "2026-08-26 · 处暑后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "冬瓜薏米煲水鸭汤",
+      "ing": [
+        "水鸭",
+        "冬瓜（带皮）",
+        "薏米",
+        "陈皮",
+        "生姜（原文均写“适量”）"
+      ],
+      "steps": [],
+      "note": "清热祛湿润燥，双虎夹击期清补",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 31,
+      "cat": "expert",
+      "period": "2026-08-26 · 处暑后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "青榄麦冬排骨汤",
+      "ing": [
+        "排骨250克",
+        "青橄榄6颗",
+        "麦冬6克",
+        "生姜适量"
+      ],
+      "steps": [],
+      "note": "清咽利喉、清肺解毒，秋燥咽痛用嗓多者",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 32,
+      "cat": "expert",
+      "period": "2026-08-26 · 处暑后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "佛手石斛煲瘦肉",
+      "ing": [
+        "猪瘦肉100克",
+        "佛手3克",
+        "石斛5克",
+        "茯苓10克",
+        "生姜2片"
+      ],
+      "steps": [],
+      "note": "益气养阴、健脾祛湿，熬夜口干腹胀者",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 33,
+      "cat": "expert",
+      "period": "2026-08-26 · 处暑后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "青榄螺头瑶柱汤",
+      "ing": [
+        "海螺头1个、瑶柱1粒、猪瘦肉100克",
+        "青橄榄2颗",
+        "生姜2片"
+      ],
+      "steps": [],
+      "note": "清热养阴、生津止渴，秋燥干咳咽干",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 34,
+      "cat": "daily",
+      "period": "2026-08-18 · 处暑前",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "鲜石斛润肺汤",
+      "ing": [
+        "排骨250g",
+        "干石斛30g",
+        "雪梨1个",
+        "玉竹30g",
+        "盐适量"
+      ],
+      "steps": [
+        "慢火煮1小时"
+      ],
+      "note": "滋阴润燥、益胃生津，秋老虎烟熬夜人群救急",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜立秋后体感不输盛夏！快煲一锅能滋润脏腑的汤膳》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652567135&idx=2&sn=760d8fe0c83211a31c3f2e2c57120527&chksm=8a485f9ffc5e265cf4c7c17660f64db9c37a2f7cd33a315aa9857738cfbc2d80b0dfffa8ea1c#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 35,
+      "cat": "expert",
+      "period": "2026-08-05 · 伏夏",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "赤豆冬瓜鸭肉汤",
+      "ing": [
+        "老鸭半只",
+        "赤小豆30g",
+        "冬瓜500g",
+        "生姜3片",
+        "陈皮一小块",
+        "盐少许"
+      ],
+      "steps": [],
+      "note": "清热祛湿兼健脾养阴，利湿不伤阴，暑热阴虚火旺者宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】赤豆冬瓜鸭肉汤，清暑利湿不伤阴》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMjE3NjM2Nw==&mid=2653859538&idx=1&sn=7d6250172775764ae51e2c14ad4d896b&chksm=810e6877355ed403310dd1de348d82c93fd6c1e6f166fb2e45008168ddb4b6d2d734a5ef08bb#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 36,
+      "cat": "expert",
+      "period": "2026-08-01 · 大暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "灯芯草淡竹叶独脚金煲猪心",
+      "ing": [
+        "新鲜猪心1个（约300克）",
+        "灯芯草3-5克",
+        "淡竹叶10克",
+        "独脚金10克",
+        "桂圆肉5-8枚",
+        "红枣2枚",
+        "陈皮3克"
+      ],
+      "steps": [
+        "慢煲30-60分钟"
+      ],
+      "note": "清热利湿、除烦安神，湿热烦闷、睡不安稳时饮",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《湿热烦闷、心神不宁？一碗岭南靓汤清热安神》",
+      "url": "https://www.cqnews.net/web/content_1532811573087981568.html",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 37,
+      "cat": "expert",
+      "period": "2026-07-31 · 大暑前后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "冬瓜扁豆薏米老鸭汤",
+      "ing": [
+        "老鸭半只",
+        "冬瓜800-1000克（连皮）",
+        "炒扁豆30克",
+        "薏苡仁30克",
+        "陈皮10克"
+      ],
+      "steps": [
+        "煲45分钟"
+      ],
+      "note": "清热利水、健脾祛湿，酷暑夹风雨的“祛湿黄金汤”",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《湿热重、没精神？快煲这锅“祛湿黄金汤”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651235470&idx=1&sn=8dc6974046139c4e6153c040423a20bb&chksm=8a8358e8a0e09effe3a524cd910e1bae33d08d0028c75803a3a93e0908775a37c264c4298d1e#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 38,
+      "cat": "daily",
+      "period": "2026-07-27 · 大暑末",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "咸蛋冬瓜肉片汤",
+      "ing": [
+        "冬瓜500g、瘦肉250g",
+        "咸蛋1个",
+        "生姜3片",
+        "盐适量"
+      ],
+      "steps": [
+        "冬瓜先爆炒后煮20-30分钟"
+      ],
+      "note": "清热利水、降脂解暑，滚汤型轻负担晚餐汤",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜减肥也能大口喝汤？选它！冬瓜+咸蛋+瘦肉，鲜甜饱腹，简单又好做》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652564393&idx=1&sn=6d0e18a83970e9770f082a4135b453a3&chksm=8adf6052fc21a2068e3ae8fe923b31b3ee54a781b0f973fdc982c9299496a6f9e37341719c6a#rd",
+      "alsoIn": [
+        "广东省中医院同方"
+      ],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 39,
+      "cat": "expert",
+      "period": "2026-07-23 · 大暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "冬瓜茯苓薏米汤",
+      "ing": [
+        "猪骨适量",
+        "冬瓜300克",
+        "茯苓10克",
+        "炒薏米20克"
+      ],
+      "steps": [],
+      "note": "利水祛湿、清热消暑，解三伏困重乏力",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《今日养生方｜大暑“上蒸下煮”，一碗汤水换一身清凉（羊城晚报岭南名医，张诗军受访）》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3NTI4NTcwNw==&mid=2656543173&idx=1&sn=1ab61be7751c8ef183c0fc6f9083b231&chksm=8581dcde1f913f23e8f791fbfec33f127c2c3c37f4acc8b9f3ec25d0dfce1abf9186f6b4ac64#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 40,
+      "cat": "expert",
+      "period": "2026-07-21 · 入夏",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "薏米苦瓜排骨汤",
+      "ing": [
+        "排骨500g",
+        "苦瓜1根",
+        "薏米30g",
+        "生姜3片",
+        "食盐少许"
+      ],
+      "steps": [],
+      "note": "清热祛湿、健脾开胃，“夏日常食苦”居家方",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】入夏湿热缠身？薏米苦瓜排骨汤，健脾又解暑》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652049206&idx=1&sn=7c7f997b2fedff2553fb1f2a6f32a4e9&chksm=8444e0a5aff7fea73ba15b17b683433853cd964b3610e03e28f6412d650e33c4f48505a8f6ba#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 41,
+      "cat": "daily",
+      "period": "2026-07-18 · 小暑末（健康广东7-23大暑档再推）",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "蚝豉青榄煲瘦肉",
+      "ing": [
+        "瘦肉350g",
+        "青榄5颗",
+        "蚝豉6个",
+        "生姜数片",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "滋阴敛阳、清咽开胃，“上蒸下煮”对症汤",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜口苦咽干、痰黏乏力、食不甘味？这碗甘润靓汤，就是你夏天的“对症药”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652563552&idx=1&sn=5de2acb5cb8c7063464197832a7196e8&chksm=8adfc316fa297f2903ef2114430e5f1ce2381a4602616d3f2457c9fcc355a0a62508da00c13c#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 42,
+      "cat": "daily",
+      "period": "2026-07-04 · 小暑前",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "石斛陈皮煲水鸭",
+      "ing": [
+        "水鸭250g",
+        "石斛15-20g",
+        "生姜3片",
+        "陈皮1瓣"
+      ],
+      "steps": [
+        "煲1.5小时"
+      ],
+      "note": "滋阴清热、理气和胃，熬夜上火族伏天汤",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《【每日一膳】熬夜上火喝它！一碗清润降火的养生靓汤，全家老少都适宜》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NDM2OTkwOA==&mid=2655822074&idx=1&sn=512c82c5e1fa0d1efa96005f96b4998d&chksm=8a00d41173efef718e8d558cd7271fdf13b4d788c6088d4de316e7d6179537980ed294b8cf06#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 43,
+      "cat": "daily",
+      "period": "2026-06-26 · 夏至末",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "冬瓜薏米老鸭汤",
+      "ing": [
+        "老鸭半只（约500g）",
+        "带皮冬瓜500g",
+        "生熟薏米各20g",
+        "陈皮1瓣",
+        "生姜15g"
+      ],
+      "steps": [],
+      "note": "清热消暑、滋阴化湿，夏日“消暑第一方”",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜煲一碗经典夏日消暑汤，能健脾化湿、滋阴生津》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MjkwMTc5Mw==&mid=2653168483&idx=1&sn=c7df332b1699ada5c7ea460b1c665aae&chksm=859bf271ec8f39fb7fdca056a2efb04fe50a9d39c640cb01814f837132a80ab1b72aa620e472#rd",
+      "alsoIn": [
+        "广州中医药大学第一附属医院同方"
+      ],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 44,
+      "cat": "expert",
+      "period": "2026-06-24 · 夏至后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "五指毛桃茯苓汤",
+      "ing": [
+        "猪瘦肉200克",
+        "五指毛桃30克",
+        "茯苓20克",
+        "炒白扁豆15克",
+        "陈皮5克",
+        "生姜3片"
+      ],
+      "steps": [
+        "煲1.5小时"
+      ],
+      "note": "健脾祛湿、益气补虚，夏乏便溏人饮",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」《夏至“上蒸下煮”！岭南暑湿缠身怎么办？3碗靓汤丨绘健康》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651232220&idx=1&sn=6fe5728964095e88a1c8dd21c6c85cb6&chksm=8a13eb6eacc517c65cd3a75a60ac93535a8801b502bd81227af4b3b029f46cec6713a24e3944#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 45,
+      "cat": "expert",
+      "period": "2026-06-24 · 夏至后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "冬瓜薏米荷叶汤",
+      "ing": [
+        "无（素汤）",
+        "带皮冬瓜500克",
+        "生薏米30克",
+        "鲜荷叶半张",
+        "赤小豆20克",
+        "生姜3片",
+        "蜜枣1个"
+      ],
+      "steps": [
+        "煲1小时"
+      ],
+      "note": "清湿热、消水肿，孕妇薏米换芡实",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 46,
+      "cat": "daily",
+      "period": "2026-06-23 · 夏至后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "百合莲子麦冬煲老鸽汤",
+      "ing": [
+        "老鸽1只（约400g）＋瘦肉100g",
+        "带芯干莲子30g",
+        "干百合20g",
+        "麦冬15g",
+        "陈皮1瓣",
+        "生姜15g"
+      ],
+      "steps": [
+        "煲1.5小时"
+      ],
+      "note": "清心祛暑、养阴安神，夏至“汗为心液”损耗专补",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜夏至心烦睡不香？这碗老鸽汤，清心降火又养阴，把流失的元气喝回来》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652559974&idx=2&sn=a61900e6843daf0d1f6c24e642f5db92&chksm=8a65273859c1f230ecc77452cac69900c39979e6a3e11218a15a10e84951e9fb91fc2d3227f4#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 47,
+      "cat": "daily",
+      "period": "2026-06-07 · 芒种",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "羊肚菌五指毛桃煲淮山汤",
+      "ing": [
+        "排骨300g",
+        "五指毛桃60g",
+        "羊肚菌8-10颗",
+        "茯苓15g",
+        "芡实15g",
+        "莲子15g",
+        "胡萝卜1条",
+        "山药半条",
+        "陈皮半瓣",
+        "蜜枣2-3颗"
+      ],
+      "steps": [
+        "煲50分钟"
+      ],
+      "note": "益气化湿、健脾不燥，高温多雨家庭汤",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《【每日一膳】高温多雨，用这几味药材煲一锅祛湿靓汤，一家老小都适合》",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg2ODkwMzY2MA==&mid=2247567806&idx=3&sn=a8a01d0a8de1faf04beec9cbf4e23e3b&chksm=cf898765192524c38585d04daf794ead4f2d8b9d7bd3bd16ec8b05397d59c919e9058fe7e885#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 48,
+      "cat": "expert",
+      "period": "2026-06-03 · 龙舟水",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "砂仁根煲鸡汤",
+      "ing": [
+        "老母鸡半只",
+        "砂仁根30克",
+        "炒扁豆30克",
+        "枸杞子10克",
+        "红枣1-2枚",
+        "生姜3片"
+      ],
+      "steps": [
+        "煲60分钟"
+      ],
+      "note": "化湿和胃、理气安胎，潮湿闷热没胃口时饮",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《潮湿闷热没胃口？快煲这碗“消暑汤”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651230052&idx=1&sn=056e1e1ddee6068e93e18fc851fba891&chksm=8a20d650d0dfb96923415d20f4b707fe2018ec52fb0522e741ea002ebfc9598de6671c0025c0#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 49,
+      "cat": "expert",
+      "period": "2026-05-28 · 初夏（服务号2026年5月28日／订阅号5月19日双发）",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "龙骨土茯苓汤",
+      "ing": [
+        "猪龙骨500g",
+        "干土茯苓30g（鲜品100g）",
+        "薏米50g",
+        "生姜3片",
+        "食盐少许"
+      ],
+      "steps": [],
+      "note": "祛湿健脾兼温和清热，不寒凉伤胃，岭南初夏经典",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】岭南初夏祛湿清热药膳——龙骨土茯苓汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652048928&idx=7&sn=0cc51b1dc3490b85227d35996081c4b8&chksm=84b94a3464f7f33eed8dabd6690be358ea6ff0daba1285ab00d86055d73f9df82e5aa8a49c41#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 50,
+      "cat": "daily",
+      "period": "2026-05-26 · 端午前",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "鱼尾祛湿汤",
+      "ing": [
+        "鲩鱼尾1条（约300g）",
+        "扁豆",
+        "眉豆",
+        "薏米各30g，陈皮1瓣",
+        "生姜3片"
+      ],
+      "steps": [
+        "先煎后煲50分钟"
+      ],
+      "note": "健脾补中、散寒化湿，端午“未食粽先祛湿”",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜未吃端午粽，先喝祛湿汤！健脾化湿、轻松度夏，全家都适合》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652557273&idx=1&sn=056d51a3e97ea1d84f4f60bc1aeeb40c&chksm=8a2850e854e9eaea281ee64649393a8730b5e314698933615200a4c7c069bab6272542184f99#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 51,
+      "cat": "daily",
+      "period": "2026-05-23 · 小满",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "五指毛桃土茯苓煲猪骨",
+      "ing": [
+        "猪扇骨或脊骨400g",
+        "五指毛桃50g",
+        "鲜土茯苓200g（干品约30g）",
+        "赤小豆30g",
+        "炒扁豆20g",
+        "陈皮1瓣",
+        "生姜15g"
+      ],
+      "steps": [],
+      "note": "椰奶香祛湿汤，龙舟水前“清中有补”代表作",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜明明是养生汤，喝起来却像椰奶甜品？小满祛湿就靠它》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652557069&idx=2&sn=367af8feea8060e2ff9e85c054320fff&chksm=8a1b2df7849fb85f243997cc43cef084adcd5052b5b83a9088b36dc95defacd5e22f49074a6b#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 52,
+      "cat": "expert",
+      "period": "2026-04-16 · 清明至谷雨",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "芡实天麻鱼头汤",
+      "ing": [
+        "胖头鱼鱼头1个",
+        "鲜芡实50g",
+        "天麻15g",
+        "生姜4片",
+        "料酒1勺",
+        "盐适量",
+        "食用油少许"
+      ],
+      "steps": [],
+      "note": "健脾祛湿、平肝息风，解春夏湿困春困，汤奶白醇厚",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】春夏困到打哈欠？喝芡实天麻鱼头汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMjE3NjM2Nw==&mid=2653851716&idx=2&sn=eae310ebc8d4d4d308e8caad75c944fc&chksm=8172d62945b55b4ac4f9d8add7f0de571a0d58e4215c779202c0891ed8626f05b88264a474f4#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 53,
+      "cat": "expert",
+      "period": "2026-04-16 · 春分已过暮春",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "五指毛桃茯苓排骨汤",
+      "ing": [
+        "排骨500g",
+        "五指毛桃30g",
+        "茯苓15g",
+        "芡实15g",
+        "生姜3片",
+        "红枣3颗（去核）"
+      ],
+      "steps": [],
+      "note": "健脾补肺、行气利湿、舒筋活络，春分湿重乏力腹胀者宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《养生别乱补！一汤一茶，疏肝祛湿解春困》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652048744&idx=2&sn=e96a22cd13ee710a4c1b17f2bd02ee70&chksm=846fe21f27d0aa4be11c6c5b36ab1a74b4b615f6765558ae30dc5489fff9bf5c9ebb54e25ce5#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 54,
+      "cat": "daily",
+      "period": "2026-04-15 · 谷雨前",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "茯苓薏仁鲫鱼汤",
+      "ing": [
+        "鲫鱼1条（约400g）＋瘦肉150g",
+        "茯苓20g",
+        "薏苡仁30g",
+        "陈皮1瓣",
+        "生姜15g"
+      ],
+      "steps": [],
+      "note": "健脾祛湿、理气和中，春末身重便溏通用方",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜谷雨前后祛湿黄金期，这道平和的健脾汤全家都适合》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652552678&idx=3&sn=2929d31542504f0600b5657167d743c3&chksm=8aaa6c672c13287d1af8c7d525ac8bf388c63b5703d5823d7505a1aa10b1e5ea168320d504cf#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 55,
+      "cat": "daily",
+      "period": "2026-04-13 · 清明末",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "双花高汤浸芦笋",
+      "ing": [
+        "鸡骨架1个",
+        "芦笋250g",
+        "生姜3片",
+        "枸杞10g",
+        "菊花10g",
+        "茉莉花5g"
+      ],
+      "steps": [],
+      "note": "润肺清热、调肝养血，汤菜型清鲜春汤",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜双花+芦笋+鸡汤：这道春天里的高颜值美食，润肺又舒肝》",
+      "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1795615186&ver=7110&signature=9HGoVS*BsZRR-v-GuRFkUlaiCQ-bFH1K7GsXy9FwdNVZ6BEIQhwuJYFfek1INMg2inQ0RRjUoq1SstyAo1XsgpnrU0MqB&new=1",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 56,
+      "cat": "daily",
+      "period": "2026-03-25 · 春分",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "广陈皮春砂仁煲瘦肉",
+      "ing": [
+        "猪瘦肉400g",
+        "春砂仁5粒",
+        "广陈皮1/4片",
+        "生姜3片",
+        "红枣2颗（去核）",
+        "盐3g"
+      ],
+      "steps": [],
+      "note": "化湿醒脾、温中和胃，春分湿困腹胀经典",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《【每日一膳】湿气重、没精神？尝尝这碗养生靓汤，祛湿健脾很舒服》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NDM2OTkwOA==&mid=2655816535&idx=1&sn=37689114ef85cdbc1619590e324ed161&chksm=8a62a1c7fe133aac0a8b8b43d2bad9a114f447c1791425c7c8de6e5f920b71a10f1a82891f73#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 57,
+      "cat": "daily",
+      "period": "2026-03-14 · 惊蛰",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "木棉花陈皮煲鲫鱼",
+      "ing": [
+        "鲫鱼2条（约500g）",
+        "木棉花15g",
+        "陈皮5g",
+        "赤小豆30g",
+        "生姜20g",
+        "盐适量"
+      ],
+      "steps": [
+        "煎鱼后煲1.5小时"
+      ],
+      "note": "健脾祛湿、理气和中，回南天“湿气”专方",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜惊蛰雷动，万物生，“湿气”也生！这时候喝对一碗汤，脾胃舒服一整春》",
+      "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1795615114&ver=7110&signature=9HGoVS*BsZRR-v-GuRFkUlaiCQ-bFH1K7GsXy9FwdNX43s9zgfs8j4dzRKTR6Yh3rkyiml9v8H8SkkQ2aJFBcvKa11jm2kUhfwkoY1fPR3NcSZI6pLm39sESlg6lz99k&new=1",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 58,
+      "cat": "daily",
+      "period": "2026-03-12 · 惊蛰",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "红枣山药炖鸡",
+      "ing": [
+        "鸡半只（约500g）",
+        "鲜山药250g",
+        "红枣10枚",
+        "生姜20g",
+        "料酒15ml"
+      ],
+      "steps": [],
+      "note": "健脾益气、和中养血，取意《金匮》薯蓣丸",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜这一碗“健脾鸡汤”请收好，专治春季倦怠乏力、没胃口》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652548460&idx=2&sn=2f9d1711824b91f11295535c32241a46&chksm=8a9f4195c19f893b124375e6ce0a2d37a122485c64436763acd2dc805cc0488667dc834ac4bc#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 59,
+      "cat": "daily",
+      "period": "2026-03-11 · 惊蛰",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "荠菜山药瘦肉汤",
+      "ing": [
+        "猪瘦肉250g",
+        "荠菜150g",
+        "山药200g",
+        "生姜15g",
+        "红枣6枚"
+      ],
+      "steps": [
+        "荠菜后下煮10分钟"
+      ],
+      "note": "疏肝和中、健脾养胃，春困没胃口适用",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜春气萌动易肝郁？这碗“疏肝黄金汤”别错过！》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652548409&idx=3&sn=c621efcd8b8f141778b3f74763103ac3&chksm=8a822f2d4b276b3b7fd085a269c6fd00fd9b29e7ef57d5355e732c8dfe281592cd53dc0bdb36#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 60,
+      "cat": "expert",
+      "period": "2026-02-04 · 冬春之交／腊月",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "黄精当归猪肚汤",
+      "ing": [
+        "猪肚1个",
+        "黄精20g",
+        "当归10g",
+        "大枣（去核）6至8颗",
+        "生姜5片",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "滋阴润肺、养血温脾，为春节厚腻饮食预护脾胃",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】冬春之交养生桥：一碗黄精当归猪肚汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652048472&idx=4&sn=41c6449c8ee80b18ad71549ea8709593&chksm=84b6407e956218d50fbc6f271995faa8b7d7a89e1f6b1b7af31162a5a5ee7e2663f0b975e802#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 61,
+      "cat": "expert",
+      "period": "2026-01-30 · 大寒后",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "莲子芡实黑豆牛腱汤",
+      "ing": [
+        "牛腱1根（200-250克）",
+        "莲子30克",
+        "芡实20克",
+        "黑豆50克",
+        "山药1根",
+        "桂圆肉5-8枚",
+        "红枣2枚",
+        "陈皮3克"
+      ],
+      "steps": [
+        "煲60分钟"
+      ],
+      "note": "健脾祛湿、补肾益精、强筋健骨",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《健脾补肾又养血！推荐这道简单易做的家常汤（今日养生方）》",
+      "url": "https://health.ycwb.com/2026-01/29/content_53935930.htm",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 62,
+      "cat": "daily",
+      "period": "2026-01-26 · 大寒末",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "板栗茯苓炖鹧鸪",
+      "ing": [
+        "鹧鸪1只（约300g）",
+        "生板栗10颗",
+        "茯苓20g",
+        "生姜3片",
+        "枸杞10g",
+        "盐3g",
+        "料酒10ml"
+      ],
+      "steps": [],
+      "note": "健脾益肾、温润不腻，脾胃虚弱者冬补优选",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《【每日一膳】清甜鲜香、滋补而不腻人，这道汤品是冬季温和滋补的优选》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NDM2OTkwOA==&mid=2655814235&idx=1&sn=c296f88db7214bda74290fffd6874dec&chksm=8a595d6ac34ee2964bb0dfb127251f6ab294c17ddf1612e86fd5a8b81ffe4d33f882e72e8793#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 63,
+      "cat": "daily",
+      "period": "2026-01-22 · 大寒",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "陈皮胡椒炖乳鸽",
+      "ing": [
+        "乳鸽2只（约600g）",
+        "陈皮5g",
+        "白胡椒粒3g",
+        "生姜20g",
+        "料酒15ml"
+      ],
+      "steps": [],
+      "note": "温中健脾、散寒暖胃，岭南湿冷脘胀最对证",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《【每日一膳】一碗暖身又养胃的冬令补汤，健脾散寒助消化》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NDM2OTkwOA==&mid=2655813935&idx=1&sn=15ed205535b6cdd4aa0341854fa62add&chksm=8a832471c1e2daf3a1c83f28a5242205bf0918d1ea97ec1e99dde8c284b185d8be3d9bced72f#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 64,
+      "cat": "daily",
+      "period": "2026-01-20 · 大寒",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "番茄洋葱羊骨汤",
+      "ing": [
+        "羊胫骨350g",
+        "番茄1个",
+        "洋葱半个",
+        "食盐适量"
+      ],
+      "steps": [
+        "炖盅隔水清炖1.5小时"
+      ],
+      "note": "补肾壮骨、补而不腻，大寒进补不上火范本",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜大寒宜补，但怎么补？试试这道清香可口的美味》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652538840&idx=1&sn=6b01fb56c33da5d3abd7c76016ab4d4a&chksm=8a94ff76254ae269b8714f0886f3199c1e128557eb0ce87db23e91e5dfab3a8472b6bc432b51#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 65,
+      "cat": "daily",
+      "period": "2026-01-19 · 大寒前",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "桂圆红枣炖乌鸡",
+      "ing": [
+        "乌鸡1只（约750g）",
+        "桂圆肉15g",
+        "红枣10枚",
+        "生姜20g",
+        "料酒15ml"
+      ],
+      "steps": [
+        "慢炖2小时"
+      ],
+      "note": "温中益气、养血安神，冬令失眠健忘可用",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《【每日一膳】四肢冰冷、失眠健忘？来一碗滋阴养血的暖身靓汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NDM2OTkwOA==&mid=2655813815&idx=1&sn=3844f618ce008fc69f85e8f845f60a91&chksm=8a90d4b97d773b137a1d827158c78b6b60bbf0f20416764fff92361f026b9106799657f46c5b#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 66,
+      "cat": "daily",
+      "period": "2026-01-16 · 小寒末",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "黄芪党参炖牛肉",
+      "ing": [
+        "牛腱肉500g",
+        "黄芪15g",
+        "党参12g",
+        "干姜6g",
+        "大枣8枚",
+        "料酒20ml",
+        "生姜20g"
+      ],
+      "steps": [],
+      "note": "益气健脾、温中散寒，气虚畏寒倦怠者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜小寒大寒宜温补！这锅炖牛肉益气健脾、驱散虚寒》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652538622&idx=1&sn=3340224a0eec9dbc656b37659f7bad70&chksm=8af07877415bc52064e8983680c0a161a490b65daea7ad50d7a2ab77de4941a055da9864d9bc#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 67,
+      "cat": "daily",
+      "period": "2026-01-13 · 小寒",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "当归生姜羊肉汤",
+      "ing": [
+        "羊肉500g",
+        "当归10g",
+        "生姜30g",
+        "料酒15ml"
+      ],
+      "steps": [
+        "砂锅慢炖2小时"
+      ],
+      "note": "温中补血、散寒止痛，阳虚畏寒首选",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜一碗暖过秋裤！温补脾肾就是最好的“防寒铠甲”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652538204&idx=2&sn=a29e71905f2add8a17aa8fb00d151a78&chksm=8aa8271aff53bfc1598f6244ce3d22728b72545a1870578770463bf82a15f1e0d28e137c163c#rd",
+      "alsoIn": [
+        "深圳市中医院同方",
+        "中山大学附属第一医院同方"
+      ],
+      "origin": "daily",
+      "dupGroup": "当归生姜羊肉",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 68,
+      "cat": "expert",
+      "period": "2026-01-12 · 三九",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "龟鹿二胶炖鸭",
+      "ing": [
+        "新鲜鸭腿2只（去皮去骨）",
+        "鹿胶6克",
+        "龟胶15克",
+        "枸杞子10克",
+        "黄精15克",
+        "陈皮3克",
+        "桂圆肉5-6枚",
+        "红枣1-2枚",
+        "生姜1块"
+      ],
+      "steps": [
+        "隔水炖2小时"
+      ],
+      "note": "滋阴壮阳、“阳中求阴”，三九进补炖盅",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《驱走三九寒，补出好气血，炖一锅龟鹿二胶鸭》",
+      "url": "https://www.nfnews.com/content/5385qAnk6B.html",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 69,
+      "cat": "expert",
+      "period": "2026-01-07 · 三九隆冬",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "杜仲山奈鸡煲",
+      "ing": [
+        "鸡肉500g（老母鸡／乌鸡／鸡腿块为佳）",
+        "杜仲15至20g",
+        "山奈5至8g",
+        "料酒2汤匙",
+        "红枣（去核）6至8颗",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "补肝肾强筋骨、散寒祛湿温脾胃，手脚冰凉腰背酸软者宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】冬日暖身宝藏汤！一碗“杜仲山奈鸡煲”下肚》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652048357&idx=1&sn=03f7fc09740ae40316f5497c0ffed6f7&chksm=84f652986f7c1c9c5347ed797dd6672c0af23622b60cd921696919f036b96b978b4183753f60#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 70,
+      "cat": "expert",
+      "period": "2026-01-04 · 元旦后开工",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "虫草花陈皮水鱼汤",
+      "ing": [
+        "水鱼（甲鱼）1只约500克、猪腱150克",
+        "虫草花10克",
+        "陈皮3克",
+        "桂圆肉5-6枚",
+        "红枣1-2枚",
+        "生姜适量"
+      ],
+      "steps": [],
+      "note": "滋阴补肝肾，应对节后疲劳、虚火、食欲不振",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《新年首个工作日！这碗汤滋阴补肝肾》",
+      "url": "https://static.nfnews.com/content/202601/04/c12049721.html",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 71,
+      "cat": "daily",
+      "period": "2025-12-23 · 冬至后",
+      "tags": [
+        "补气血",
+        "强筋骨",
+        "淮山"
+      ],
+      "star": false,
+      "name": "核桃山药猪蹄筋汤",
+      "ing": [
+        "干猪蹄筋50~100克、瘦肉150克",
+        "核桃肉50克",
+        "淮山50克",
+        "陈皮1瓣"
+      ],
+      "steps": [
+        "煲1.5小时"
+      ],
+      "note": "填精补髓、强腰膝，宜久病精血亏虚面色萎黄",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《南方+每日一膳｜总是疲劳、腰膝乏力、面色萎黄？这碗“填精汤”正适合》",
+      "url": "https://www.nfnews.com/content/R6gNlvwb3p.html",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 72,
+      "cat": "expert",
+      "period": "2025-12-23 · 冬至",
+      "tags": [
+        "补气血",
+        "强筋骨",
+        "淮山"
+      ],
+      "star": false,
+      "name": "当归养血汤",
+      "ing": [
+        "猪腱或牛腱250克",
+        "当归10克",
+        "黄芪30克",
+        "枸杞子15克",
+        "山药1支",
+        "红枣1-2枚",
+        "陈皮1片",
+        "生姜3片"
+      ],
+      "steps": [],
+      "note": "补气养血、“冬至一阳生”时补益元气",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《名中医的“御寒秘籍”！一碗“升级古方汤”》",
+      "url": "https://www.nfnews.com/content/m3PmpmeA6r.html",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 73,
+      "cat": "daily",
+      "period": "2025-12-12 · 大雪后",
+      "tags": [
+        "消食"
+      ],
+      "star": false,
+      "name": "三老清汤",
+      "ing": [
+        "无肉（白萝卜1个、萝卜干20克）",
+        "陈皮1瓣",
+        "生姜5片",
+        "盐",
+        "胡椒粉适量"
+      ],
+      "steps": [
+        "煲40分钟"
+      ],
+      "note": "清肠刮油、消食下气，宜三高脂肪肝与病后清淡",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《服务号每日一膳｜吃多也不怕！清肠刮油的靓汤，只需三样食材》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MjkwMTc5Mw==&mid=2653167446&idx=1&sn=755a4bd6e5a3be3dfe185f98d158d190&chksm=859f87f942c4630e2fa681123169c289f7cd33b85f0c8563c467f26b911889238a5f84197498#rd",
+      "alsoIn": [
+        "广东省中医院同方"
+      ],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 74,
+      "cat": "expert",
+      "period": "2025-12-03 · 大雪前冷冬",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "羊肉戟枸煲",
+      "ing": [
+        "羊肉500g",
+        "巴戟15至20g",
+        "枸杞15g",
+        "生姜5片",
+        "料酒2汤匙",
+        "红枣（去核）6至8颗",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "温肾壮阳、强筋祛湿，体虚畏寒手脚冰凉者宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】冬季给家人的温肾壮阳膳食谱——“羊肉戟枸煲”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652047991&idx=3&sn=cbbbcccf23038ad2ae29d53566f758d6&chksm=84da430128203f50d18619f9d3f1f16cc7791d0e9644b166181af64c9059b90dde87a9e8f754#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 75,
+      "cat": "daily",
+      "period": "2025-11-22 · 小雪",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "胡椒猪肚鸡",
+      "ing": [
+        "新鲜猪肚1个、嫩鸡半只至1只",
+        "白胡椒粒15~20克",
+        "红枣8枚",
+        "枸杞10克",
+        "生姜1大块"
+      ],
+      "steps": [
+        "慢炖1.5小时"
+      ],
+      "note": "温中散寒、暖胃暖身，小雪封藏第一汤",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜小雪至，寒气盛！天越冷，越需要这碗驱寒“猛将”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652522993&idx=4&sn=626967d2470ebd4596285f428c839612&chksm=8ab23a8bcc678fa9f0585a6a78dd44e248db77278100e0ea37cf9c37d59b919de05f795bc586#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 76,
+      "cat": "daily",
+      "period": "2025-11-21 · 小雪前",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "杜仲黑豆炖排骨",
+      "ing": [
+        "猪肋排500克",
+        "杜仲20克",
+        "黑豆50克",
+        "红枣6颗",
+        "枸杞10克",
+        "生姜3片"
+      ],
+      "steps": [],
+      "note": "温养阳气、坚固骨骼，宜腰酸畏寒",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜温养阳气、坚固骨骼，这款经典广府时令汤帮您更好“冬藏”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652522608&idx=1&sn=7331f296617e389a05135ad9cb37a183&chksm=8a69bf9dda605c9c3f687cdcee1077bf35044b5c7c7288e71474afabf92cbb05b16eece70d59#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 77,
+      "cat": "daily",
+      "period": "2025-11-17 · 立冬",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "黄精红枣鸡汤",
+      "ing": [
+        "鸡半只",
+        "制黄精30克",
+        "红枣6枚",
+        "枸杞10克",
+        "生姜3片"
+      ],
+      "steps": [
+        "慢炖1.5小时"
+      ],
+      "note": "气血双补、滋肾润肺，宜中老年与病后",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜在秋冬时节煲一款经典的滋补佳品，特别适合气血不足、倦怠乏力、腰膝酸软、须发早白之人》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652521534&idx=1&sn=cf61e9ab15ba55c0f910e4ff508596cd&chksm=8a3d43b099cf07779de302fddd517201bd61372b4198d01058bf519a5a4efe89f272cea260d2#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 78,
+      "cat": "expert",
+      "period": "2025-11-08 · 霜降后凉燥",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "葳蕤鸽子沙参汤",
+      "ing": [
+        "乳鸽1只",
+        "玉竹15g",
+        "南沙参10g",
+        "生姜3片",
+        "盐少许"
+      ],
+      "steps": [],
+      "note": "养阴润燥生津，对抗口干咽痒干咳，炖盅性味平和",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】一份养生润燥养阴膳食汤——“葳蕤鸽子沙参汤”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMjE3NjM2Nw==&mid=2653842529&idx=2&sn=565cdb7fe1f3a228e8995d55a7129e5f&chksm=81e4b40e59d615ba60135afbf9781d91e9680441a45421e23f7d44da248f15adc720540c0305#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 79,
+      "cat": "daily",
+      "period": "2025-10-30 · 霜降后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "胡椒根炖猪肚",
+      "ing": [
+        "新鲜猪肚1个",
+        "白胡椒根30克（或胡椒粒15克）",
+        "红枣6~8颗",
+        "枸杞10克",
+        "生姜5片"
+      ],
+      "steps": [
+        "砂锅慢炖1.5~2小时"
+      ],
+      "note": "温中散寒、健脾暖胃，寒邪直中脾胃首选",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《健康广东转每日一膳｜没什么比天冷时一碗热汤更治愈！这道汤为疲惫的脾胃注入元气》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NDM2OTkwOA==&mid=2655805944&idx=1&sn=1e88ff0b6b7c8c7c49359b71c0411233&chksm=8af6eed0b56e3ae289c6685dc5bf0aabe2ef291ec7fd0f30b2d6670bbb2ba7a7cd077b10431d#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 80,
+      "cat": "expert",
+      "period": "2025-10-13 · 寒露深秋",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "百合芡实煲",
+      "ing": [
+        "鲜虾10只（无骨，属海鲜素润类）",
+        "鲜百合1粒",
+        "芡实50g",
+        "西芹适量",
+        "盐少许"
+      ],
+      "steps": [],
+      "note": "润肺养阴、补脾固肾，肺脾肾三脏同调，失眠多梦者亦宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】“百合芡实煲”，秋燥润肺补肾养生汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652047346&idx=3&sn=16926da865806e0812d7f149efd19950&chksm=840b81cae6007c9b9b83e79ea8878e83f76d16f4c3cdcfdc455a841fbcaa44cf0f73992450d5#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 81,
+      "cat": "expert",
+      "period": "2025-09-16 · 出伏初秋",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "淮山"
+      ],
+      "star": false,
+      "name": "山药排骨润肺煲",
+      "ing": [
+        "排骨1条",
+        "山药1根（大小适中）",
+        "枸杞12颗",
+        "盐少许"
+      ],
+      "steps": [],
+      "note": "润养脾阴、燥湿相并，岭南初秋燥湿并存首选，孩童亦宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】“山药排骨润肺煲”，岭南初秋燥湿相并的养生汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652047167&idx=1&sn=c3432bf8c0e12affad8cee3426f2266b&chksm=84fd08230a4785facec599b1ae3ab2a119fbc039bd138e7a0294a6de07eb155f240de28b6fe7#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 82,
+      "cat": "daily",
+      "period": "2025-09-14 · 白露后",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "菜干"
+      ],
+      "star": false,
+      "name": "金秋润肺汤",
+      "ing": [
+        "猪肺1个、猪瘦肉200克",
+        "无花果干6粒",
+        "南北杏共30克",
+        "菜干50克",
+        "胡萝卜1个",
+        "陈皮1瓣",
+        "姜适量"
+      ],
+      "steps": [
+        "煮1.5小时"
+      ],
+      "note": "滋阴润肺，缓解五官皮肤干燥、心烦便秘",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜这碗“秋日甘霖”是阖家养生防病的必备靓汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652506698&idx=1&sn=bd5492c4c192970e0f2effb3468413f5&chksm=8a552e835472093cd39e0a4c16836c5ed06486d81adce979115ddb0d2b9842c98551181edbba#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 83,
+      "cat": "expert",
+      "period": "2025-09-09 · 处暑后雨热交替",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "马蹄鸭肉清湿汤",
+      "ing": [
+        "鸭腿1只",
+        "荸荠（马蹄）16颗",
+        "胡萝卜半根",
+        "盐少许"
+      ],
+      "steps": [],
+      "note": "清湿热、补脾阴，体液损耗大的户外人群尤宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】“马蹄鸭肉清湿汤”湿热人群的祛湿清热汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652047155&idx=4&sn=b5b3f62c2b397da54ec278ae5b8ebd6c&chksm=842edf7aa9b867e794f1eb3f32dcd9a5092c32d00940d98b16970ace739affa3821d268c25b1#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 84,
+      "cat": "daily",
+      "period": "2025-09-05 · 处暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "西洋菜陈肾罗汉果煲瘦肉",
+      "ing": [
+        "瘦肉500克、陈肾（腊鸭肾）2个",
+        "西洋菜500克",
+        "罗汉果1/4个",
+        "无花果干4颗",
+        "南北杏各10克",
+        "姜3片"
+      ],
+      "steps": [
+        "先煲1.5小时"
+      ],
+      "note": "清肺润燥、化痰止咳兼健脾开胃",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《服务号每日一膳｜润燥！健脾！化痰！岭南处暑的食养智慧，都在这碗汤里》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MjkwMTc5Mw==&mid=2653166950&idx=3&sn=eaa54fb6f6940ab0503c6125007215df&chksm=85b6efbaddf308a271c8f34b19c7afc5d5bfa5b96274a2b507c3b60ac9bcee839019f3431c1d#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 85,
+      "cat": "daily",
+      "period": "2025-08-29 · 处暑",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "莲藕"
+      ],
+      "star": false,
+      "name": "莲藕麦冬老鸭汤",
+      "ing": [
+        "老鸭半只（约500克）",
+        "鲜莲藕约400克",
+        "麦冬15克",
+        "枸杞10克",
+        "生姜3片"
+      ],
+      "steps": [
+        "慢炖1.5小时"
+      ],
+      "note": "滋阴润燥、养肺生津、健脾益血",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜处暑遇“秋燥”别慌！这碗莲藕麦冬老鸭汤，滋阴润燥还养脾胃》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652504452&idx=1&sn=b49d999f63a479b867c192fadc4372a3&chksm=8a18ce6357d1e9588d2af928b21ad506f2a26b33b746a01d4f75b6635e9c2ab9d8e752e89b4a#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 86,
+      "cat": "daily",
+      "period": "2025-08-19 · 立秋后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "霸王花煲猪骨",
+      "ing": [
+        "猪骨500克",
+        "霸王花干2棵",
+        "蜜枣1个",
+        "陈皮1瓣"
+      ],
+      "steps": [],
+      "note": "清心润肺、除痰安神，广府“清补凉”",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《健康广东转每日一膳｜缓解心烦失眠、情绪易怒…煲一锅再熟悉不过的“清补凉”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NDM2OTkwOA==&mid=2655802197&idx=1&sn=73b878e644b4803acd2a5e8784db0da7&chksm=8a0bc25542f42b75c605eb2e394419279bb81c31bc728aaf5c94281c11a84f28480634d23854#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 87,
+      "cat": "expert",
+      "period": "2025-08-01 · 大暑中伏",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "黄皮黄豆排骨汤",
+      "ing": [
+        "排骨250克",
+        "鲜黄皮果15-20颗",
+        "黄豆100克",
+        "陈皮1片",
+        "红枣1-2枚",
+        "生姜3片"
+      ],
+      "steps": [
+        "煲45-60分钟"
+      ],
+      "note": "行气化痰、健脾消食，岭南水果入汤代表",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊｜黄皮黄豆排骨汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247511717&idx=1&sn=547e29a590ab9b99646a19a1434230fa&chksm=fd79c1a272d66d5142df8acc0c0d54b29278f4cacab2ad1b2abeb3e00d19e000820acb388b18#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 88,
+      "cat": "daily",
+      "period": "2025-07-25 · 大暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "冬瓜薏米荷叶老鸭汤",
+      "ing": [
+        "老鸭半只（约500克）",
+        "冬瓜400克",
+        "生薏米50克",
+        "干荷叶1/4张",
+        "生姜3片"
+      ],
+      "steps": [
+        "炖1.5小时后下冬瓜再煮20~30分钟"
+      ],
+      "note": "清暑、利湿、滋阴、健脾四效合一",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《服务号每日一膳｜身热烦渴、身体沉重，饮这碗靓汤对抗大暑湿热》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MjkwMTc5Mw==&mid=2653166891&idx=2&sn=af5eea5762b06b2aea08f91c86dd34eb&chksm=855f12fad1ea54b408d5dbe07d969dfdd6dfcae053524ba284dad53f0a66dafcb322d076d79d#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 89,
+      "cat": "expert",
+      "period": "2025-07-23 · 大暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "五指毛桃土茯苓汤",
+      "ing": [
+        "鸡或猪骨（原文未标克数）",
+        "五指毛桃（南芪）",
+        "土茯苓（原文未标克数）"
+      ],
+      "steps": [],
+      "note": "补气不燥、利湿解毒，暑湿疲劳没胃口",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」《“在岭南，对付大暑，吃什么太重要了”丨绘健康》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651186221&idx=1&sn=8bee4097e6893b16f4414426e3ae2afc&chksm=8a9f36d1ed45c26547728fa3069efb64b8a9dd84714ce62007ddf3b161cd202d7c138cf54e60#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 90,
+      "cat": "expert",
+      "period": "2025-07-23 · 大暑",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "荔荷水鸭汤",
+      "ing": [
+        "水鸭",
+        "荔枝肉不超过10个",
+        "鲜荷叶（原文未标克数）"
+      ],
+      "steps": [],
+      "note": "荷叶解暑、水鸭滋阴，岭南清补凉经典",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 91,
+      "cat": "daily",
+      "period": "2025-07-09 · 小暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "青鸭羹",
+      "ing": [
+        "青头鸭1只",
+        "草果3枚",
+        "赤小豆150克",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "化自《饮膳正要》，利水消肿、祛湿不伤正",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜三伏祛湿不踩雷！古法祛湿配方，专治夏天“黏糊糊”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652497255&idx=2&sn=2b8b3493f6526f6599e89a4e26f4500c&chksm=8ad6ba31056c4693ba6bbc13cb96a1998f16403e901a798b01a3c6b5e9cca0cebacef78d4255#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 92,
+      "cat": "daily",
+      "period": "2025-07-06 · 小暑",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "黄皮排骨汤",
+      "ing": [
+        "排骨1条",
+        "黄皮15个",
+        "无花果6~8个",
+        "莲子20克",
+        "淮山1根",
+        "蜜枣2~3颗",
+        "姜3片"
+      ],
+      "steps": [
+        "前后共煲1小时"
+      ],
+      "note": "理气健脾、解暑生津，甜中微酸",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜用黄皮这么煲汤甘甜清爽、满口清香，特别适合夏季消暑保健》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652496623&idx=2&sn=681bf8595856fec67c4ab44cb66b6334&chksm=8a6f34f1fb9b816357c0afb7dc6e1ab403caf8720f8916f03dfa3507d90c89b94202baff950d#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 93,
+      "cat": "daily",
+      "period": "2025-06-03 · 芒种",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "人参叶煲水鸭",
+      "ing": [
+        "水鸭半只",
+        "人参叶50克",
+        "生姜3片",
+        "陈皮1瓣"
+      ],
+      "steps": [
+        "文火煲1.5小时"
+      ],
+      "note": "清热祛湿而不寒、益气养血，宜湿热疲倦",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜一碗靓汤=祛湿+补气！广东人私藏的祛湿秘方》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652490046&idx=1&sn=fd4c7cfb97c3ae4237c47889985f9f5c&chksm=8a5cb501e6b60a2e05117487090fe6df7c0220373f28bac839197296670a87dcb73eb6537a11#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 94,
+      "cat": "daily",
+      "period": "2025-05-05 · 立夏",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "栗子杜仲鸡脚汤",
+      "ing": [
+        "鸡脚300克、猪肋排250克",
+        "栗子10~12颗",
+        "杜仲30克",
+        "巴戟15克",
+        "红枣5颗",
+        "生姜15克"
+      ],
+      "steps": [
+        "煲2小时"
+      ],
+      "note": "补肾强筋骨、缓解关节冷酸，兼美容",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《官网每日一膳｜假期疯玩累到了！这碗汤缓解腰膝、肢体关节冰冷、酸软，还能美容》",
+      "url": "https://www.gdhtcm.com/news/popularization_100000692759678.html",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 95,
+      "cat": "daily",
+      "period": "2025-05-04 · 立夏前",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "佛手石斛桂圆煲瘦肉",
+      "ing": [
+        "瘦肉250克",
+        "佛手10克",
+        "石斛15克",
+        "桂圆肉30克",
+        "生姜3片"
+      ],
+      "steps": [
+        "煲1小时"
+      ],
+      "note": "益气滋阴、理气健脾，宜情绪性胃胀（五四专题）",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《官网每日一膳｜五四青年节，以一道益气滋阴又能理气健脾之品致青春》",
+      "url": "https://www.gdhtcm.com/news/popularization_100000697644233.html",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 96,
+      "cat": "expert",
+      "period": "2025-04-21 · 春燥",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "沙参洋参百合润肺汤",
+      "ing": [
+        "无（纯素汤）",
+        "沙参30克",
+        "西洋参10克",
+        "鲜百合1枚（或干品10克）",
+        "陈皮3克",
+        "无花果1-2枚"
+      ],
+      "steps": [],
+      "note": "养阴清润，缓解沙尘春燥后口鼻咽干",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《缓解春燥，罗颂平教授推荐一款清润药膳》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651175884&idx=1&sn=e359b5b68b69d95d7be05ce1e8098135&chksm=8afef7e81c98c073a3984d9db5f141c97cff7f87af5dce63145fbc11e2e7e788a9506583346c#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 97,
+      "cat": "daily",
+      "period": "2025-04-05 · 清明",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "芥菜番薯汤",
+      "ing": [
+        "猪脊骨300克（盐腌成咸骨）",
+        "吕田大芥菜500克",
+        "黄心番薯2个",
+        "生姜数片"
+      ],
+      "steps": [
+        "滚汤约15分钟"
+      ],
+      "note": "宣肺清内热、降火，滚汤代表",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《贵州医院订阅号转每日一膳｜清明食养正当时，来一碗宣肺润肠汤，祛湿健脾》",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg2ODkwMzY2MA==&mid=2247527874&idx=4&sn=a205b3e2f677597f98c3eea2e9e0f889&chksm=cf5a1502d9e9439179a02aa868a69024319bee034fe9073aac73cc669fabd05d9ec55bb12954#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 98,
+      "cat": "expert",
+      "period": "2025-03-24 · 春分",
+      "tags": [
+        "补气血",
+        "强筋骨",
+        "淮山"
+      ],
+      "star": false,
+      "name": "灵芝党参淮杞汤",
+      "ing": [
+        "牛肉300克或乌鸡半只",
+        "灵芝10-15克",
+        "党参30克",
+        "枸杞子15克",
+        "鲜山药1根",
+        "桂圆肉3-5枚",
+        "陈皮1片",
+        "生姜1块"
+      ],
+      "steps": [
+        "煲90分钟"
+      ],
+      "note": "补气安神、增强体质，春分呼吸道高发期保健汤",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《春分后，强体质！罗教授推荐这款养生保健的家常汤水》",
+      "url": "https://static.nfnews.com/content/202503/24/c11111739.html",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 99,
+      "cat": "expert",
+      "period": "2025-03-20 · 春分",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "五指毛桃枸杞乌鸡汤",
+      "ing": [
+        "乌鸡250克、猪瘦肉150克",
+        "五指毛桃50克",
+        "枸杞子20克"
+      ],
+      "steps": [
+        "小火炖60分钟"
+      ],
+      "note": "补气健脾、滋补肝肾，宜体质虚弱、肝肾不足",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气｜春分养生必看！三款药膳助你平衡阴阳》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656076522&idx=1&sn=8726325910e1b11109d8428a99778d0d&chksm=8aa7109c159ea08d034f40fbfe42bd6b523853fbe5967d356b9875d77874781f6b5f9bc5a42c#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 100,
+      "cat": "daily",
+      "period": "2025-03-18 · 春分",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "绵茵陈蜜枣陈皮煲猪横脷",
+      "ing": [
+        "猪横脷1条",
+        "绵茵陈30克",
+        "陈皮1瓣",
+        "蜜枣3个",
+        "生姜适量"
+      ],
+      "steps": [
+        "茵陈先煮20分钟"
+      ],
+      "note": "应春防感利湿、疏利肝胆",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜应春防感利湿，适宜当下节气食用》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652476703&idx=2&sn=e0107111098796726e75181922777aec&chksm=8a2fa4bf131140f309034c31ba46b8efc900c27271e6cf5060e32ceb507bf526463cc46d945d#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 101,
+      "cat": "daily",
+      "period": "2025-03-18 · 春分",
+      "tags": [
+        "平补"
+      ],
+      "star": false,
+      "name": "洋葱汤",
+      "ing": [
+        "鸡骨架1个",
+        "洋葱1个",
+        "大葱1根",
+        "白萝卜半个",
+        "香菜",
+        "盐",
+        "胡椒粉"
+      ],
+      "steps": [],
+      "note": "辛温发散、防感通窍，宜风寒初起与老幼",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜气温骤降，抵抗力差害怕感冒，就煮这碗辛辣香浓的靓汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652476703&idx=2&sn=e0107111098796726e75181922777aec&chksm=8a2fa4bf131140f309034c31ba46b8efc900c27271e6cf5060e32ceb507bf526463cc46d945d#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 102,
+      "cat": "expert",
+      "period": "2025-03-08 · 惊蛰前",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "三花四君汤",
+      "ing": [
+        "无（纯药材汤）",
+        "党参30克",
+        "白术10克",
+        "茯苓15克",
+        "甘草5克",
+        "佛手花5克",
+        "扁豆花5克",
+        "木棉花15克",
+        "陈皮3克",
+        "红枣1-2枚"
+      ],
+      "steps": [
+        "煎汤30-60分钟"
+      ],
+      "note": "健脾补气、升阳祛湿，脾虚气弱兼湿困",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊｜“春夏养阳”…三花四君汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA4MDM2NzE3MA==&mid=2649540726&idx=3&sn=25171e9c7c0c0eef631b4dd2a8dd8431&chksm=8658e464ecd3472e2f0f7c7bc41af20b4b46992223e7c919dcf26481421382c4bb4cde66507b#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 103,
+      "cat": "expert",
+      "period": "2025-02-18 · 雨水",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "参淮扁实瘦肉汤",
+      "ing": [
+        "瘦肉200g",
+        "党参20g",
+        "淮山50g",
+        "炒白扁豆50g",
+        "芡实20g",
+        "大枣4枚（去核）",
+        "生姜3片"
+      ],
+      "steps": [
+        "炖盅或砂锅小火50分钟"
+      ],
+      "note": "健脾益气祛湿（篇首总则）",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气｜雨水至，保暖防湿中医有妙招》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656075283&idx=1&sn=95a6379c7207d1882b73cbbe25e6e283&chksm=8a35e8fea4b29ea96e004018d32eb05d5cc94835f7fd90472a15469aca9b7d529f8678847a3f#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 104,
+      "cat": "expert",
+      "period": "2025-02-18 · 雨水",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "五指毛桃排骨汤",
+      "ing": [
+        "排骨300g",
+        "五指毛桃50g",
+        "茯苓30g",
+        "炒薏苡仁20g",
+        "白术15g",
+        "大枣4枚（去核）",
+        "生姜3片"
+      ],
+      "steps": [
+        "小火煮60分钟"
+      ],
+      "note": "健脾祛湿、行气利水",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 105,
+      "cat": "daily",
+      "period": "2025-02-11 · 立春后",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "核桃莲子红枣猪心汤",
+      "ing": [
+        "猪心1个、瘦肉2两",
+        "核桃肉50克",
+        "莲子50克",
+        "红枣4个",
+        "生姜5片"
+      ],
+      "steps": [
+        "瓦煲1小时"
+      ],
+      "note": "养心安神、补肾健脑，宜心悸失眠久病者",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜“以形补形”的汤膳，体虚、久病人群的营养佳选》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652469795&idx=1&sn=c327d04f815f64a6ea950c3b2927caec&chksm=8a76bfeea913277f40d2667fef2709dcf16d3882266d6e801db85f3fc672f80f307950b09f71#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 106,
+      "cat": "daily",
+      "period": "2025-01-19 · 大寒",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "菜干"
+      ],
+      "star": false,
+      "name": "菜干青橄响螺汤",
+      "ing": [
+        "响螺头3个、猪扇骨1块",
+        "菜干60克",
+        "青榄5~6颗",
+        "蜜枣3枚",
+        "生姜15克"
+      ],
+      "steps": [
+        "煲2小时"
+      ],
+      "note": "滋阴清热、利咽润燥，应久晴干燥",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《南方+每日一膳｜久未降雨的干燥气候里，熬制一煲味甘鲜美、滋阴清热的靓汤》",
+      "url": "https://static.nfnews.com/content/202501/19/c10450999.html",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 107,
+      "cat": "expert",
+      "period": "2025-01-05 · 小寒",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "桂圆炖鹌鹑汤",
+      "ing": [
+        "鹌鹑肉250克、瘦猪肉100克",
+        "党参15克",
+        "淮山药30克",
+        "桂圆肉10克",
+        "枸杞子15克",
+        "芡实10克"
+      ],
+      "steps": [],
+      "note": "益气健脾、养肾暖阳",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气小寒至，养生有“三宜三忌”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656074094&idx=1&sn=737af6a187d148eccc0d1d0771d11424&chksm=8aba27f9d599950c43be48d02099a4648dc853e1fce90dd587c1d76519b287fc46d68a14114b#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 108,
+      "cat": "expert",
+      "period": "2025-01-05 · 小寒",
+      "tags": [
+        "温补",
+        "淮山"
+      ],
+      "star": false,
+      "name": "山药羊肉汤",
+      "ing": [
+        "羊肉500克",
+        "淮山药100克",
+        "胡萝卜100g"
+      ],
+      "steps": [],
+      "note": "补脾益肾、温中暖下",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 109,
+      "cat": "expert",
+      "period": "2025-01-05 · 小寒",
+      "tags": [
+        "平补"
+      ],
+      "star": false,
+      "name": "枸杞苁蓉猪尾汤",
+      "ing": [
+        "猪尾1条（连骶骨）、鸡脚6只",
+        "黄精",
+        "枸杞子",
+        "肉苁蓉各30克，大枣6枚",
+        "生姜3片"
+      ],
+      "steps": [],
+      "note": "滋养肾精、益养肾阳",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 110,
+      "cat": "daily",
+      "period": "2024-12-28 · 冬至后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "马蹄竹蔗浸羊肉片",
+      "ing": [
+        "嫩羊肉200克、排骨2块",
+        "马蹄6个",
+        "竹蔗150克",
+        "生姜适量"
+      ],
+      "steps": [
+        "汤底先煮40分钟"
+      ],
+      "note": "清润汤底涮羊肉，补而不燥，宜老幼病后",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《贵州医院订阅号转每日一膳｜怕冷怕风，还手脚冰凉，这款补而不燥，还清润的汤膳》",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg2ODkwMzY2MA==&mid=2247519453&idx=4&sn=76c8c6dfcfbdd38600acb65b2f8e200f&chksm=cfec0fe1451a9b300802b50c95d57901ec068b12a8da3f3a92bd536d74e40e4c6c9839228cfa#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 111,
+      "cat": "daily",
+      "period": "2024-12-25 · 冬至",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "白萝卜羊肉汤",
+      "ing": [
+        "羊肉500克",
+        "白萝卜1个",
+        "生姜",
+        "葱花",
+        "盐适量"
+      ],
+      "steps": [
+        "炖煮约2小时"
+      ],
+      "note": "补肾助阳而以萝卜监制其燥，补散同存",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《南方+每日一膳｜羊肉汤这么煮能达到味甘而不腻、补与散同存的效果》",
+      "url": "https://static.nfnews.com/content/202412/25/c10371899.html",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 112,
+      "cat": "daily",
+      "period": "2024-12-24 · 冬至前",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "辣汤羊肉",
+      "ing": [
+        "羊排肉350克",
+        "土豆3个",
+        "生姜50~100克",
+        "花椒适量"
+      ],
+      "steps": [
+        "煮法20—30分钟"
+      ],
+      "note": "温补脾肾、御寒促循环",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《贵州医院订阅号转每日一膳｜冬季补品羊肉，加入一物，既能去羊膻味，更加强温补》",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg2ODkwMzY2MA==&mid=2247519341&idx=3&sn=62ed92ff3a33cd08a8feb225dc1fe6b4&chksm=cf080e8493b05d393575f4b4a7d04e178bd6afd48315fae71c6f649ec2cd798d0db32030de49#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 113,
+      "cat": "expert",
+      "period": "2024-12-21 · 冬至",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "当归黄芪鸡汤",
+      "ing": [
+        "鲜鸡1只",
+        "当归10g",
+        "黄芪15克",
+        "红枣5个",
+        "枸杞10g",
+        "生姜",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "补养气血、暖身，宜女性冬至饮",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气｜岁末冬至，抓住进补“黄金期”，推荐这4款膳食！》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656073672&idx=1&sn=29fdce7f4d8573d2d3dc1639f37f329b&chksm=8a64c41ce5d4575152587624626a3494080aabf46163f68d6f0d2b24215283894a04b3b6151a#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 114,
+      "cat": "expert",
+      "period": "2024-12-21 · 冬至",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "当归羊肉马蹄汤",
+      "ing": [
+        "羊肉250克",
+        "当归15克",
+        "马蹄5个",
+        "生姜6片",
+        "料酒",
+        "盐适量"
+      ],
+      "steps": [
+        "瓦罐文火煲2小时"
+      ],
+      "note": "健脾温中、补肾壮阳、益气养血，温而不燥",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 115,
+      "cat": "expert",
+      "period": "2024-12-21 · 冬至",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "萝卜鲫鱼汤",
+      "ing": [
+        "鲫鱼1条",
+        "白萝卜1个",
+        "葱",
+        "姜",
+        "料酒",
+        "枸杞",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "清肺胃之热、化痰消食",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 116,
+      "cat": "expert",
+      "period": "2024-12-20 · 冬至前一日",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "熟地黑豆羊蝎子汤",
+      "ing": [
+        "羊蝎子500克",
+        "熟地黄30克",
+        "黑豆50克",
+        "桂圆肉3-5枚",
+        "陈皮1片",
+        "生姜1块",
+        "黄酒1勺"
+      ],
+      "steps": [
+        "煲90-120分钟"
+      ],
+      "note": "温补阳气、养血填精，数九寒天补肾汤",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊熟地黑豆羊蝎子汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247508438&idx=1&sn=81ab61c88c77e65fe8675bb56d5e5a3d&chksm=fd582bb19b62d1fa0aee35588523da7ad3f908063aa0df444d43955b043db371b375c319f4de#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 117,
+      "cat": "expert",
+      "period": "2024-12-06",
+      "tags": [
+        "补气血",
+        "强筋骨"
+      ],
+      "star": false,
+      "name": "党参黄芪乌鸡汤",
+      "ing": [
+        "乌鸡半只",
+        "党参15克",
+        "黄芪10克",
+        "红枣4颗",
+        "枸杞10克",
+        "元肉10克",
+        "姜3片",
+        "清水2升",
+        "米酒10ml"
+      ],
+      "steps": [],
+      "note": "扶正补虚、降燥养颜、补脾开胃",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气｜“大雪”来了，中医专家教你安然过仲冬》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656073336&idx=2&sn=e9e54773c461aeb15359dcd55b501f7f&chksm=8a9e03b0d3efafa08847f2a0e0b7b6bedf13ee246f24dc1859b8ce49d8409b10b1e44f59bccd#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 118,
+      "cat": "daily",
+      "period": "2024-11-25 · 小雪",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "生熟地炖脊骨",
+      "ing": [
+        "猪脊骨200克",
+        "生地10克",
+        "熟地10克",
+        "陈皮1瓣",
+        "红枣3个"
+      ],
+      "steps": [
+        "炖盅隔水清炖1.5小时"
+      ],
+      "note": "滋阴补血、补而不腻，宜月经不调失眠",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜熟地这么搭配煲出的汤膳补而不腻、甘甜清香》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652459310&idx=1&sn=7e6a28047141f1f5dd0a5df769bf05c5&chksm=8ab052fa8ee0580fd56d257f91d2ff0a374ce05ab604bdda2b4c8f5a24f7e7aa108957349a6d#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 119,
+      "cat": "expert",
+      "period": "2024-11-22 · 小雪",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "香菇红枣枸杞鸡汤",
+      "ing": [
+        "土鸡半只",
+        "香菇6朵",
+        "红枣6个",
+        "枸杞10克",
+        "生姜3片",
+        "料酒",
+        "盐"
+      ],
+      "steps": [],
+      "note": "温补藏精、补益气血（小雪“藏”养）",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气｜小雪节气，以“藏”为要，养生应注意这些要点→》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656073082&idx=1&sn=0879ebe4ec781ea5aa634cbfa7061d9b&chksm=8aa9a2ec748de4dba1608d570a8ec9b948b94c6b09b038b563465be1b27f67f07b2b0e0a0d85#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 120,
+      "cat": "expert",
+      "period": "2024-11-22 · 小雪",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "羊肚菌山药瘦肉汤",
+      "ing": [
+        "瘦肉（剁碎，原文未标克数）",
+        "山药",
+        "羊肚菌",
+        "鸡蛋1个",
+        "枸杞",
+        "盐，均原文未标克数"
+      ],
+      "steps": [],
+      "note": "健脾益胃、温润平补",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 121,
+      "cat": "daily",
+      "period": "2024-11-21 · 小雪",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "茶树菇无花果瘦肉汤",
+      "ing": [
+        "瘦肉250克",
+        "鲜茶树菇80克",
+        "胡萝卜1根",
+        "无花果干2~3个",
+        "生姜3片"
+      ],
+      "steps": [],
+      "note": "平肝健脾、辅助调脂通便",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《官网每日一膳｜高血脂能喝煲汤吗？能！推荐一款具有调节血脂功能的靓汤》",
+      "url": "https://www.gdhtcm.com/news/popularization_100000633251626.html",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 122,
+      "cat": "expert",
+      "period": "2024-11-15 · 立冬后",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "淮山"
+      ],
+      "star": false,
+      "name": "参麦石斛水鸭汤",
+      "ing": [
+        "水鸭半只",
+        "西洋参10克",
+        "麦冬15克",
+        "石斛10克",
+        "鲜山药1根",
+        "桂圆肉3-5枚",
+        "陈皮1片"
+      ],
+      "steps": [
+        "煲90分钟"
+      ],
+      "note": "养阴益气，“秋冬养阴”代表方",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊参麦石斛水鸭汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247507959&idx=1&sn=8063d964a0f604056a27f1ea78a00365&chksm=fdeb974baa52c046a70227838094ac6bd120bc86613b826f5315a9f96092d473b0f9dce0dc10#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 123,
+      "cat": "expert",
+      "period": "2024-11-07 · 立冬",
+      "tags": [
+        "补气血",
+        "强筋骨",
+        "淮山"
+      ],
+      "star": false,
+      "name": "当归生姜羊肉汤（加淮山版）",
+      "ing": [
+        "羊肉250克",
+        "当归10克",
+        "生姜5片",
+        "大枣4枚",
+        "淮山20克"
+      ],
+      "steps": [],
+      "note": "补血祛寒，加淮山使补而不燥，宜宫寒腹痛手足冷",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气｜今日立冬，进补有讲究！这两款汤膳男女皆宜》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656072727&idx=1&sn=a994f6c9dd57bf960e98a3cc4d4cac61&chksm=8a4c9e003cad16f367a499afbe8e63f6960e51a78758f954f30d6ea8c3bc38e47e5a9ffad941#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "当归生姜羊肉",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 124,
+      "cat": "expert",
+      "period": "2024-11-07 · 立冬",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "鹿茸蛋汤",
+      "ing": [
+        "无肉（鸡蛋1个，留壳洗净）",
+        "鹿茸3-5克",
+        "清水适量",
+        "盐少许"
+      ],
+      "steps": [
+        "炖盅隔水炖3-4小时"
+      ],
+      "note": "补而不腻、温肾壮阳，宜宫寒、阳萎精少",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 125,
+      "cat": "expert",
+      "period": "2024-10-23 · 霜降",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "雪梨南杏润肺汤",
+      "ing": [
+        "猪肺500克、瘦肉100克",
+        "雪梨1个",
+        "南杏仁5克",
+        "北杏仁5克",
+        "蜜枣1个"
+      ],
+      "steps": [
+        "炖煮1-2小时"
+      ],
+      "note": "清肺热、润肺燥、止咳化痰，宜肺燥干咳便秘",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气今日霜降，增强体质，运动饮食有讲究》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656072146&idx=2&sn=461336e97d7c8b48ef2c87cef9f28d9f&chksm=8a52770f77d3f140d6e3c5c57f4465e7411bab9c77c0cdf343feb91ebfe6227218b04ed2766c#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 126,
+      "cat": "expert",
+      "period": "2024-10-23 · 霜降",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "莲藕"
+      ],
+      "star": false,
+      "name": "莲藕绿豆脊骨汤",
+      "ing": [
+        "猪脊骨500克",
+        "莲藕500克",
+        "绿豆10克",
+        "莲子10克",
+        "生姜5片"
+      ],
+      "steps": [
+        "炖1.5小时"
+      ],
+      "note": "补益脾胃、润燥通气",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 127,
+      "cat": "expert",
+      "period": "2024-10-08 · 寒露",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "参麦雪梨瘦肉汤",
+      "ing": [
+        "瘦猪肉300克",
+        "太子参30克",
+        "麦冬15克",
+        "雪梨2个",
+        "南杏仁30克"
+      ],
+      "steps": [
+        "武火沸后文火煲1小时"
+      ],
+      "note": "润肺清燥、益气生津，咽干慢性咳嗽尤宜",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气｜寒露至，秋风瑟，四道汤羹助你润肺清燥》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656071331&idx=1&sn=30460c0dc23b23fbd8a4e724eac42730&chksm=8a36e954cd9f9b8c39595190e72f0b50af7b1314308ba101fe6e204b0a8b31118a89a205e2a6#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 128,
+      "cat": "expert",
+      "period": "2024-10-08 · 寒露",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "白果南杏生鱼汤",
+      "ing": [
+        "生鱼1条（约500克）",
+        "白果50克",
+        "南杏仁50克",
+        "腐竹90克",
+        "马蹄8个",
+        "生姜2-3片",
+        "清水2000毫升"
+      ],
+      "steps": [
+        "瓦煲文火煲1小时"
+      ],
+      "note": "润肺化痰、敛肺止咳",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 129,
+      "cat": "daily",
+      "period": "2024-10-04 · 寒露前",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "菜干"
+      ],
+      "star": false,
+      "name": "金银菜煲猪踭",
+      "ing": [
+        "猪踭500克",
+        "白菜500克",
+        "白菜干50克",
+        "姜3片",
+        "陈皮1瓣",
+        "蜜枣2个"
+      ],
+      "steps": [],
+      "note": "清肺热、利肠胃，节后刮油",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《贵州医院订阅号转每日一膳｜假期大鱼大肉吃腻了？调理肠胃可以熬这款秋冬养生靓汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg2ODkwMzY2MA==&mid=2247512281&idx=3&sn=725b7362d80d24e928c6676fc6568c53&chksm=cf9134e8c8fdecbd385d744d449a728fac36dfc5a29f22e2f0afc02acb9ba9ee6ee7b81371ec#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 130,
+      "cat": "expert",
+      "period": "2024-09-07 · 白露",
+      "tags": [
+        "补气血",
+        "强筋骨"
+      ],
+      "star": false,
+      "name": "猪肺虫草汤",
+      "ing": [
+        "猪肺250克",
+        "冬虫夏草15克，盐",
+        "味精适量"
+      ],
+      "steps": [],
+      "note": "补肺肾、止咳喘，宜久咳干咳、腰膝酸软",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气白露至，秋意浓，养生重在润肺祛“燥”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656070189&idx=1&sn=75b95d4ec615806fffbc7e150e7d277e&chksm=8aeec130968db2e0859a05d67d34dc11cd07a2a5a0fc050fe4916e2a62a328c05ba8f8ecbb33#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 131,
+      "cat": "expert",
+      "period": "2024-09-07 · 白露",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "鲫鱼红糖甜杏汤",
+      "ing": [
+        "鲫鱼1条（约500克）",
+        "甜杏仁15克",
+        "红糖适量"
+      ],
+      "steps": [],
+      "note": "益气健脾、滋阴理肺，宜咳嗽痰多、气短声低",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 132,
+      "cat": "daily",
+      "period": "2024-08-31 · 处暑",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "松茸润燥汤",
+      "ing": [
+        "原文未标肉料（松茸配瘦肉/鸡肉，以原页为准）",
+        "松茸",
+        "鲜百合",
+        "苹果",
+        "红枣",
+        "生姜（原文未标克数）"
+      ],
+      "steps": [],
+      "note": "宁心润肺，缓解处暑心烦失眠、胃纳差",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳丨出现心烦失眠、胃纳欠佳…这碗时令靓汤助你应对处暑秋燥》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652449686&idx=1&sn=3f8a027645546c60beba82e4ec6836e3&chksm=8ab270e31d47d9308df99caa6d6f7b106cb5453b1515d38f480aa3b27cf103b9036d316b2dcf#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 133,
+      "cat": "daily",
+      "period": "2024-08-27 · 处暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "粉葛赤小豆鱼汤",
+      "ing": [
+        "鲮鱼1条（约300克）",
+        "粉葛400克",
+        "赤小豆30克",
+        "蜜枣2个",
+        "生姜5片",
+        "陈皮1瓣"
+      ],
+      "steps": [],
+      "note": "清热利湿、解肌生津，宜湿热困倦",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《贵州医院订阅号转每日一膳｜利水、祛暑湿、补充蛋白质，当季汤品来一碗》",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg2ODkwMzY2MA==&mid=2247510088&idx=3&sn=b5530feb4b230f08418ac8d9dcb04712&chksm=cf312d4a79760ae66d32e29cf9c1489fd20e6374c546d154aa6a210a8b40cc13565fb846befc#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 134,
+      "cat": "daily",
+      "period": "2024-08-17 · 立秋后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "鲜荷叶冬瓜汤",
+      "ing": [
+        "猪脊骨300克",
+        "冬瓜1,000克",
+        "鲜荷叶半片",
+        "鲜莲子30克",
+        "白扁豆30克",
+        "眉豆30克",
+        "姜3片"
+      ],
+      "steps": [
+        "煲1.5小时"
+      ],
+      "note": "消暑除热、养心安神（3人份）",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《南方+每日一膳｜清润的荷叶搭配利水的冬瓜》",
+      "url": "https://static.nfnews.com/content/202408/17/c9664456.html?enterColumnId=44772",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 135,
+      "cat": "expert",
+      "period": "2024-08-07 · 立秋",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "黄精煨猪肘",
+      "ing": [
+        "猪肘1只（约750g）",
+        "黄精12g",
+        "党参12g",
+        "红枣5枚，黄酒",
+        "冰糖",
+        "葱姜适量"
+      ],
+      "steps": [],
+      "note": "补脾润肺，宜脾胃虚弱、肺虚咳嗽、病后体弱",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气｜今日立秋，这些养生要点请收好！》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656068526&idx=1&sn=f04024a35b82c4299c86e2915fc705a6&chksm=8a040883f7ca87df8d0c2550716324abcbc445afb4b935d85b22b6e0109493a30037e46d4f41#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 136,
+      "cat": "daily",
+      "period": "2024-07-26 · 大暑",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "黄皮清鸡汤",
+      "ing": [
+        "鸡半只",
+        "黄皮12~15颗（酸中带甜品种）",
+        "生姜3片",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "消食理气、解暑生津",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《南方+每日一膳｜岭南佳果，熬汤一绝，消暑解渴，生津开胃》",
+      "url": "https://static.nfnews.com/content/202407/26/c9157050.html?enterColumnId=41187",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 137,
+      "cat": "expert",
+      "period": "2024-07-26 · 大暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "荷叶翠衣冬瓜扁豆汤",
+      "ing": [
+        "无（素汤）",
+        "冬瓜500-800克",
+        "炒扁豆50克",
+        "鲜荷叶1片",
+        "西瓜皮数片",
+        "陈皮5克",
+        "生姜2片"
+      ],
+      "steps": [
+        "中火煲半小时"
+      ],
+      "note": "清热解暑、健脾升阳，暑湿交结“煲冬瓜”",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊荷叶翠衣冬瓜扁豆汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247506637&idx=1&sn=a6d5417425d65cf6e74ee893dbad03bf&chksm=fd0c2b7223951b69614567d056757a7845882f3e39a7263e9765026e80f55521486a007f5ac8#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 138,
+      "cat": "daily",
+      "period": "2024-07-22 · 大暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "绿豆莲子煲排骨",
+      "ing": [
+        "排骨300克",
+        "绿豆50克",
+        "莲子60克",
+        "陈皮1瓣"
+      ],
+      "steps": [],
+      "note": "解暑化湿不伤脾，清补相兼",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜这道美食既能解暑、化湿还不伤脾胃》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652444111&idx=1&sn=4e8e6fea078fcf4aadd4b62dec36aab3&chksm=8a052060d50cdc0c50a97abb8383bd3a1d7b6445c64b656c30930dc03384c71f71ada258e6f3#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 139,
+      "cat": "daily",
+      "period": "2024-07-18 · 小暑后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "无花果南杏煲瘦肉",
+      "ing": [
+        "瘦肉250克",
+        "鲜无花果3~5个",
+        "南杏15克",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "润肺止咳、滑肠，宜干咳便秘",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《官网每日一膳｜肺虚久咳、大便干结怎么办？》",
+      "url": "https://www.gdhtcm.com/news/popularization_100000619959584.html",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 140,
+      "cat": "expert",
+      "period": "2024-06-23 · 龙舟水",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "亲子萝卜猪腱汤",
+      "ing": [
+        "猪腱250克",
+        "白",
+        "青",
+        "胡萝卜各1个",
+        "桂圆肉3枚",
+        "红枣2枚",
+        "陈皮1瓣",
+        "生姜2片"
+      ],
+      "steps": [],
+      "note": "清热消滞、宽中化痰，老少咸宜开胃汤",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《雨水多、湿气重，如何吃健脾化湿消滞》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651147695&idx=1&sn=685c68d320e095f492b5aa4c15175d50&chksm=8afb153c124e040d231ca0a1430f35578d15a308dcddd626a5fd39de4f8f72ae29d0ecc75eb2#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 141,
+      "cat": "expert",
+      "period": "2024-06-21 · 夏至",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "鸡骨草赤小豆猪骨汤",
+      "ing": [
+        "猪骨350g",
+        "鸡骨草20g",
+        "赤小豆30g",
+        "薏米30g",
+        "生姜2片",
+        "蜜枣2枚"
+      ],
+      "steps": [],
+      "note": "清热祛湿、健脾和胃",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气｜夏至已至，4个食疗方助你消暑养生》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656067142&idx=1&sn=c7159af0d46d1f7bbc954b85d0beaaef&chksm=8a933e35fab5050f64d922301f97101694943d2a897eb720ee6186f4dd5f86d8f0b4396c011a#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 142,
+      "cat": "daily",
+      "period": "2024-06-17 · 龙舟水",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "海带绿豆煲排骨",
+      "ing": [
+        "排骨400克",
+        "绿豆50克",
+        "鲜海带100克",
+        "姜3~5片",
+        "陈皮1瓣"
+      ],
+      "steps": [],
+      "note": "清热利湿解暑疖毒，应龙舟水蒸笼天",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《官网每日一膳｜龙舟水至，蒸笼天气…煲碗靓汤，好祛湿》",
+      "url": "https://www.gdhtcm.com/news/popularization_100000606624829.html",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 143,
+      "cat": "expert",
+      "period": "2024-06-05 · 芒种",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "冬瓜绿豆排骨汤",
+      "ing": [
+        "排骨500克",
+        "冬瓜500g",
+        "绿豆30克",
+        "生姜适量",
+        "清水1500ml"
+      ],
+      "steps": [
+        "文火煲1.5小时"
+      ],
+      "note": "清解暑热、健脾利湿",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气芒种至，盛夏始，重在养心清暑、健脾祛湿》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656066672&idx=1&sn=bc7645ad3ec81f9d4a00ceeb27fae186&chksm=8a1dc6d69e4da664f9be2caaa58a1c51594d98024b7fca1a65e3b9faaada061e8437250749ad#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 144,
+      "cat": "daily",
+      "period": "2024-06-03 · 芒种",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "五指毛桃茯苓陈皮煲排骨",
+      "ing": [
+        "排骨300克",
+        "五指毛桃100克",
+        "茯苓30克",
+        "陈皮1瓣",
+        "生姜3片"
+      ],
+      "steps": [],
+      "note": "益气化湿、舒筋，宜虚不受补",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《南方+每日一膳｜祛湿“神器”五指毛桃，搭配两物煲汤》",
+      "url": "https://static.nfnews.com/content/202406/04/c8963672.html?enterColumnId=3124",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 145,
+      "cat": "daily",
+      "period": "2024-05-28 · 小满后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "太子参茯苓陈皮排骨汤",
+      "ing": [
+        "排骨500克",
+        "太子参30克",
+        "茯苓15克",
+        "陈皮1瓣"
+      ],
+      "steps": [
+        "煲1.5小时"
+      ],
+      "note": "补脾利水醒神，宜小孩及虚不受补者",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《南方+每日一膳｜湿邪伤脾胃，运化不佳，煲一碗利水醒神汤吧》",
+      "url": "https://static.nfnews.com/content/202405/28/c8945394.html?enterColumnId=10831",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 146,
+      "cat": "daily",
+      "period": "2024-05-06 · 立夏前",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "土茯苓薏米煲猪骨",
+      "ing": [
+        "猪脊骨500克",
+        "干土茯苓60克（鲜品200克）",
+        "炒薏米50克",
+        "陈皮1瓣",
+        "蜜枣2个"
+      ],
+      "steps": [],
+      "note": "清热除湿、泄浊解毒，宜湿热长疮疔者",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜湿热体质，容易长疮疔的朋友适合这个汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652434861&idx=1&sn=f710fd6a7a730e547e8494a05d100aa1&chksm=8a82fabc0501e4297d9454763986d1db23544f588ed55c44800418a2093a5d40bad966c73bb3#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 147,
+      "cat": "expert",
+      "period": "2024-05-05 · 立夏",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "黄豆苦瓜排骨汤",
+      "ing": [
+        "排骨300g",
+        "黄豆半碗",
+        "苦瓜1根",
+        "生姜4片"
+      ],
+      "steps": [],
+      "note": "清热消暑、清心除烦",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《二十四节气｜健康一“夏”，名中医有妙方！》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5NzY2OTc0MA==&mid=2656065176&idx=1&sn=9c31a684dde09aa6ebfd6abe9a2a708f&chksm=8aab8ba17b223780836ebb1f751304fb1c6ea3b8ef3823bd3d8afd7b35e25a8b789d13cacc36#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 148,
+      "cat": "daily",
+      "period": "2024-04-15 · 清明后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "花生眉豆鸡脚汤",
+      "ing": [
+        "鸡脚约8只、猪脊骨300克",
+        "花生150克",
+        "眉豆100克",
+        "生姜30克",
+        "陈皮1瓣"
+      ],
+      "steps": [
+        "煲2小时"
+      ],
+      "note": "润肺养颜、健脾除湿",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《南方+每日一膳｜熬一碗养颜润肤的春日靓汤》",
+      "url": "https://static.nfnews.com/content/202404/15/c8784953.html?enterColumnId=5367",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 149,
+      "cat": "expert",
+      "period": "2024-04-15 · 清明后",
+      "tags": [
+        "平补"
+      ],
+      "star": false,
+      "name": "无花果参芪螺片汤",
+      "ing": [
+        "螺片2-3片",
+        "无花果干2-3个",
+        "党参30克",
+        "黄芪30克",
+        "枸杞子15克",
+        "桂圆肉3-5枚",
+        "陈皮1片",
+        "生姜3片"
+      ],
+      "steps": [],
+      "note": "补气固表、利咽，岭南提前入夏易外感时家常保健",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《春天怎么吃？罗颂平教授给大家开出3个食疗方》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651142191&idx=1&sn=317c3c41a7b54774b07e41c92002b8b5&chksm=8a13caffffb3d83971d48fdabcff3ed66deeb5819b275f6e23ef58c714f19ef87cbee5b4aed5#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 150,
+      "cat": "daily",
+      "period": "2024-03-27 · 春分后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "茵陈双芽汤",
+      "ing": [
+        "猪瘦肉350克",
+        "绵茵陈15克",
+        "谷芽15克",
+        "麦芽15克",
+        "陈皮1瓣",
+        "生姜",
+        "蜜枣3个"
+      ],
+      "steps": [],
+      "note": "升发肝气、祛春困湿浊",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《南方+每日一膳｜温热潮湿，容易“春困”…》",
+      "url": "https://static.nfnews.com/content/202403/27/c8727878.html?enterColumnId=7747",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 151,
+      "cat": "expert",
+      "period": "2024-03-18 · 雨水",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "莲藕",
+        "淮山"
+      ],
+      "star": false,
+      "name": "莲藕山药排骨汤",
+      "ing": [
+        "排骨（未标克数）",
+        "莲藕",
+        "山药",
+        "姜片",
+        "盐",
+        "料酒（原文均未标克数）"
+      ],
+      "steps": [],
+      "note": "健脾利湿、滋养脾肺肾，雨水寒湿困脾的一般人群汤",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】中医药膳“解春困”，当选莲藕山药排骨汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652038185&idx=4&sn=5e8aa726c51e2e788df374bd412d2d25&chksm=84605e9b71899d9852637bb44e07b2389292cfec96217d9149eded56719e5d46ce14bfb0820a#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 152,
+      "cat": "expert",
+      "period": "2024-03-17 · 春分前",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "北芪党参怀山煲土鸡汤",
+      "ing": [
+        "新鲜土鸡1只（约500克）",
+        "北芪15克",
+        "党参15克",
+        "怀山30克",
+        "红枣5个",
+        "生姜6克"
+      ],
+      "steps": [],
+      "note": "补肺健脾、固表止咳，感染后久咳无力",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」《春暖花开莫让流感趁虚而入，气虚咳嗽试试这几个中医食疗方丨绘健康》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA4MDM2NzE3MA==&mid=2649540207&idx=1&sn=33816b44fa3284453e1f2f60f3c979c0&chksm=863760ecae580150878c53c834adb6c9715ed80194c51ba88dbecde8ff0f3161a1051ded5935#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 153,
+      "cat": "expert",
+      "period": "2024-03-17 · 春分前",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "南北杏煲鹧鸪汤",
+      "ing": [
+        "鹧鸪1只",
+        "南杏仁10克",
+        "北杏仁10克",
+        "大枣5个",
+        "生姜6片"
+      ],
+      "steps": [],
+      "note": "温中补虚、宣肺化痰，久咳痰多气短",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 154,
+      "cat": "expert",
+      "period": "2024-03-17 · 春分前",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "百合银耳煲瘦肉",
+      "ing": [
+        "猪瘦肉250克",
+        "百合30克",
+        "银耳25克",
+        "大枣6个",
+        "生姜5片"
+      ],
+      "steps": [
+        "瘦肉姜片先煲15分钟"
+      ],
+      "note": "养阴润肺、清心安神，干咳咽痒少痰",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「绘健康」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 155,
+      "cat": "daily",
+      "period": "2024-02-19 · 雨水",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "星语星愿",
+      "ing": [
+        "鸡肉250—300克（或瘦肉150克）",
+        "杨桃1~2个",
+        "生姜5片，生粉胡椒粉花生油盐适量"
+      ],
+      "steps": [
+        "滚汤（爆姜后加水煮10—15分钟"
+      ],
+      "note": "酸甜消食、疏肝健脾，应雨水",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜雨水节气，许下一个消食保健的“星与星愿”》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652427755&idx=2&sn=cf207829d22c37f2d74c5597f8d4c2ac&chksm=8abd1e3d1debcc8675c2c19aebb0ce8d3e7b7982986df09d93d1ba59360a05fe5d483cbc121f#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 156,
+      "cat": "daily",
+      "period": "2024-02-04 · 立春",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "清汤萝卜牛腩",
+      "ing": [
+        "牛腩500克",
+        "白萝卜1根",
+        "沙参15克",
+        "玉竹15克",
+        "月桂叶3片"
+      ],
+      "steps": [],
+      "note": "清润滋补、助运化，宜偏虚寒体质",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜迎接春天的第一口鲜！清新滋补正当时》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652425872&idx=1&sn=170dc53f0bbf6ea6721a5610475a5a27&chksm=8af5bcb68bc27f796bf90400a8028be69a58f8f65fbaba67d8102738d8d1652f7f1496636d75#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 157,
+      "cat": "daily",
+      "period": "2024-01-13 · 小寒后",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "羊肚瘦肉腐竹汤",
+      "ing": [
+        "羊肚、猪瘦肉",
+        "腐竹",
+        "姜葱",
+        "胡椒粉适量（原文未标克数）"
+      ],
+      "steps": [],
+      "note": "以脏补脏、温中养胃",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《每日一膳｜以脏补脏、温中养胃，这道“古膳”…》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652428151&idx=1&sn=78e4df62439318a40dad97b3d6798e80&chksm=8af29d942376fe6727435942a6610ef6ecb6e5699e2c0bd12b7c0c357a27d24037f012b3e441#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 158,
+      "cat": "daily",
+      "period": "2023-12-11 · 大雪后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "香菇木耳清脂汤",
+      "ing": [
+        "无（纯素）",
+        "干香菇15个",
+        "干木耳10克",
+        "黑豆150克",
+        "玉竹20克",
+        "红枣3–5个",
+        "生姜数片",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "健脾益肾、养气血兼清脂，三高与素食人群宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《健脾肾、养气血，又可以清脂，yyds》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652417684&idx=1&sn=b73a7fb5d3ba0aad050c430e3b339759&chksm=8a5eb1501fdbf676f26f05bb40f5d7f1a548a7627fe3d53f154dabe1707cca9177de0285a719#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 159,
+      "cat": "daily",
+      "period": "2023-11-17 · 立冬后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "黑豆生姜汤",
+      "ing": [
+        "无（纯素）",
+        "黑豆50克",
+        "生姜10克"
+      ],
+      "steps": [
+        "煎煮10–15分钟"
+      ],
+      "note": "活血利水、祛风解毒、健脾益肾，方出《本草易读》；热证忌",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《黑豆+生姜煮成汤，可祛风解毒、健脾益肾》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MjkwMTc5Mw==&mid=2653159660&idx=1&sn=b170e64d2d6414f2a253f5bbae6a45c9&chksm=853b25df4c73b67c2ff52a01213166bf80fb5454e44ec30b63afb5673adfc3ff549ac852b548#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 160,
+      "cat": "daily",
+      "period": "2023-09-21 · 秋分前",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "芥菜番薯咸猪骨汤",
+      "ing": [
+        "咸猪骨（原文未标克数）",
+        "芥菜1把",
+        "番薯（黄心）1–2个",
+        "生姜数片",
+        "盐少许"
+      ],
+      "steps": [],
+      "note": "降火润肠、补充膳食纤维，秋燥便秘者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 161,
+      "cat": "daily",
+      "period": "2023-08-09 · 立秋",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "冬瓜淡菜眉豆煲鸡脚",
+      "ing": [
+        "鸡爪8–12个",
+        "带皮冬瓜300克",
+        "淡菜10只",
+        "眉豆50克",
+        "花生50克",
+        "陈皮1瓣",
+        "生姜3–5片",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "除湿利水而不伤正、养血益精，气虚阳虚者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《总是感觉虚？鲜美清甜的时令靓汤不能少》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652405643&idx=1&sn=53d9724147a0a360bbad0da40b4aa7f1&chksm=8a7c367b4ff3496ca3ba63c353b95a789334f117fffda7313c3eccf9ffc7e840e2a9be4c80b1#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 162,
+      "cat": "daily",
+      "period": "2023-07-12 · 小暑",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "鲜石斛麦冬陈皮煲猪展",
+      "ing": [
+        "猪展（瘦肉）300克",
+        "鲜石斛20克",
+        "麦冬15克",
+        "陈皮1瓣",
+        "盐适量"
+      ],
+      "steps": [
+        "慢火煲1小时"
+      ],
+      "note": "益胃生津、滋阴除烦，暑热汗多、口干心烦失眠（阴虚火旺）者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《阴虚火旺，暑热难耐，喝好这碗汤》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MjkwMTc5Mw==&mid=2653159105&idx=2&sn=61245d826364e0dceb761769d01a68e1&chksm=85f5b42c4385be203fca4c13e6a0cdb35a2ffeaaa76d5d59c4c1335c1ea34f720ee7f862bbdd#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 163,
+      "cat": "daily",
+      "period": "2023-07-10 · 小暑后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "霸王花蜜枣陈皮煲猪骨（原文汤名以“霸王花煲汤”行文）",
+      "ing": [
+        "猪骨（原文未标克数）",
+        "霸王花（干）约50克",
+        "蜜枣3枚",
+        "陈皮1瓣",
+        "生姜3片",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "清心润肺、除痰止咳，心火旺、燥热咳嗽者宜；虚寒不推荐",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 164,
+      "cat": "daily",
+      "period": "2023-06-19 · 夏至前（龙舟水）",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "鸡骨草祛湿汤",
+      "ing": [
+        "猪扇骨500克",
+        "鸡骨草30克",
+        "土茯苓15克",
+        "赤小豆15克",
+        "扁豆15克",
+        "陈皮1瓣",
+        "蜜枣2个",
+        "生姜3片",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "清热利湿、舒肝健脾，口苦口臭、肢困便黏者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《岭南地区闷热潮湿，煲好这碗汤，清热利湿、健运脾胃》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652401208&idx=2&sn=8a1e1a29478fb99f60a8ce1bca816632&chksm=8a5432e41127938b28ec7dc4344a4b9d51428ddf3c60c72a86365b110ef72f82c94ebc6a668c#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 165,
+      "cat": "daily",
+      "period": "2023-06-13 · 芒种",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "高汤浸苦瓜",
+      "ing": [
+        "猪骨300克",
+        "瑶柱（干贝）50克",
+        "苦瓜2个",
+        "生姜5片",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "清暑降火而不伤中，夏日“君子菜”吃法",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《夏日美食好搭档苦瓜，这样熬汤既不怕寒凉又能消暑哦》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652400515&idx=2&sn=8a4d91086ecfa042996ec2de619642da&chksm=8ac545ad65589862c9b2e0d4f6236c0af481f189bb9a6a65cbbf6018b788e1923aa1b3bb53cf#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 166,
+      "cat": "daily",
+      "period": "2023-03-28 · 春分后",
+      "tags": [
+        "补气血",
+        "强筋骨"
+      ],
+      "star": false,
+      "name": "枸杞叶猪肝汤",
+      "ing": [
+        "猪肝100克",
+        "枸杞叶250克",
+        "枸杞子20克",
+        "生姜3片，盐",
+        "生粉",
+        "胡椒粉",
+        "糖",
+        "花生油适量"
+      ],
+      "steps": [],
+      "note": "补肝明目、养血，眼干、熬夜、经量多者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《广东人饭桌上常见的一碗汤，明目又补血》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652391534&idx=2&sn=c5641b4dc3808130ff1988394a53a3f4&chksm=8a6850ce306d09ead71464c8678770f2f23d5407ea62e4048d3b59c3b560baf5581830f70c1e#rd",
+      "alsoIn": [
+        "中山大学附属第一医院同方"
+      ],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 167,
+      "cat": "daily",
+      "period": "2023-03-10 · 惊蛰后",
+      "tags": [
+        "补气血",
+        "强筋骨"
+      ],
+      "star": false,
+      "name": "黑豆陈皮鲫鱼汤",
+      "ing": [
+        "鲫鱼1条（约500克）",
+        "黑豆50克",
+        "陈皮1瓣",
+        "生姜3片",
+        "盐",
+        "花生油适量"
+      ],
+      "steps": [
+        "先煎香再煲50分钟"
+      ],
+      "note": "养血平肝、滋肾乌发，肾虚头发早白者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《这碗乌发和胃又补虚的汤，肾虚白发的朋友请收好》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652388859&idx=2&sn=c0ef27a12f4ebcfafc4f4e82612e8925&chksm=8b7bbb92bc0c32843281a91b435e3c18aa4bd5bbd61d399526ea103c28d0eea4e764a1352798#rd",
+      "alsoIn": [
+        "广东省中医院同方"
+      ],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 168,
+      "cat": "daily",
+      "period": "2023-03-04 · 惊蛰",
+      "tags": [
+        "平补"
+      ],
+      "star": false,
+      "name": "鸡汤桑叶",
+      "ing": [
+        "鸡骨架1只",
+        "鲜嫩桑叶250克",
+        "枸杞子15克",
+        "生姜5片",
+        "盐适量"
+      ],
+      "steps": [
+        "先熬鸡汤底再下桑叶煮2分钟"
+      ],
+      "note": "疏散风热、平肝明目，春季养肝护眼",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《春季养肝好时节！鲜嫩的桑叶浸泡在香气十足的鸡汤中》",
+      "url": "https://www.peopleapp.com/rmharticle/30006626770",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 169,
+      "cat": "daily",
+      "period": "2023-02-28 · 惊蛰前",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "健脾祛湿汤",
+      "ing": [
+        "猪展300克",
+        "莲子50克",
+        "芡实50克",
+        "陈皮1瓣",
+        "生姜5片",
+        "盐适量"
+      ],
+      "steps": [
+        "煲1.5小时"
+      ],
+      "note": "健脾祛湿、“补而不峻、防燥不腻”，初春省酸增甘",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《初春宜省酸、增甘、养脾气，健脾祛湿汤》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652387131&idx=1&sn=32dadd987221e2ca23de6c8a072b1a59&chksm=8b7bb152bc0c3844f47cc445ad2a589dadd485e7f59187418c46330829a98a796d5e1d17c8e3#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 170,
+      "cat": "daily",
+      "period": "2023-02-20 · 雨水",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "菜干"
+      ],
+      "star": false,
+      "name": "菜干青榄响螺汤",
+      "ing": [
+        "响螺头3个、猪扇骨1块",
+        "菜干60克",
+        "青榄5–6颗",
+        "蜜枣3枚",
+        "生姜15克",
+        "盐适量"
+      ],
+      "steps": [
+        "煲2小时"
+      ],
+      "note": "滋阴清热、利咽生津，春升太过致虚火上浮者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《春季虚火上浮？周末熬制一煲味甘鲜美、滋阴清热的靓汤》",
+      "url": "https://www.peopleapp.com/rmharticle/30006719689",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 171,
+      "cat": "expert",
+      "period": "2022-12-30 · 冬至后疫期",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "川贝雪梨猪肺汤",
+      "ing": [
+        "猪肺250g",
+        "川贝母10g",
+        "雪梨2个",
+        "冰糖少许"
+      ],
+      "steps": [],
+      "note": "清肺化痰、润燥止咳，阳后咳嗽咳痰频饮方",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《阳过之后，却还咽干咽痛咳嗽乏力？这些食疗方非常好用！》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652027125&idx=3&sn=a5d8c2f6a8f0d7fbec8b49dca9524e24&chksm=8526563eb251df28022782815533c546eae045e87fd7ab42a87b983aab5529b0bece39fb416a#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 172,
+      "cat": "daily",
+      "period": "2022-12-27 · 冬至后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "猴头菇瘦肉汤",
+      "ing": [
+        "瘦肉250克",
+        "猴头菇1个",
+        "太子参30克",
+        "生姜3片",
+        "盐适量"
+      ],
+      "steps": [
+        "小火煮1.5小时"
+      ],
+      "note": "益胃健脾、益气养阴不温燥，“阳康”后胃部不适者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《“阳康”后仍觉胃部不适？这一碗益胃健脾又补虚》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652380514&idx=2&sn=f4eba66c569bd609ddca9e592df91da1&chksm=8a1bad793e5876116be31789bf1802395596c7decabce13e01dac3e86036b5c503c1463cd6a1#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 173,
+      "cat": "daily",
+      "period": "2022-12-22",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "鲜人参石斛炖鹧鸪",
+      "ing": [
+        "鹧鸪1只",
+        "鲜人参50克",
+        "石斛10克",
+        "陈皮1瓣",
+        "菊花2朵",
+        "生姜3片"
+      ],
+      "steps": [],
+      "note": "大补元气、益胃生津，外感初愈气阴两虚、久咳痰多者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《疲倦乏力又咳个不停，是你吗？今晚就炖这个汤品吧》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MjkwMTc5Mw==&mid=2653156402&idx=3&sn=a3cd270be62f14c6eed96b0e90149eaf&chksm=84c061fcb3b7e8ea71c39cbf2d6ce03010822a379193698b9fe91c811ca2e0d6bad2966a9bac#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 174,
+      "cat": "daily",
+      "period": "2022-11-28 · 小雪前后",
+      "tags": [
+        "补气血",
+        "强筋骨"
+      ],
+      "star": false,
+      "name": "杞子菊花炖乌鸡",
+      "ing": [
+        "乌鸡半只",
+        "枸杞子20克",
+        "菊花10克",
+        "盐适量"
+      ],
+      "steps": [
+        "炖盅隔水清炖1.5小时"
+      ],
+      "note": "滋补肝肾、清利头目，头晕眼花、腰膝酸软者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《乌鸡炖两物，头晕眼花、腰膝酸软就选它》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652377716&idx=3&sn=c2bc5cd26c79d9fa3c95306d4fdcaa6b&chksm=8a0b32b4e61576fef0dc4b16bba4a0ed8b3d0d05986405d219088c16663f961244189a22bd7c#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 175,
+      "cat": "expert",
+      "period": "2022-10-21 · 寒露后",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "菜干"
+      ],
+      "star": false,
+      "name": "菜干南杏陈胗汤",
+      "ing": [
+        "瘦猪肉半斤（咸瘦肉）",
+        "白菜干半斤",
+        "南杏10克",
+        "陈鸭胗3-5个",
+        "蜜枣2个"
+      ],
+      "steps": [
+        "煲1小时"
+      ],
+      "note": "清热润燥、养胃生津，秋燥咽干咳嗽",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊菜干南杏陈胗汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247496565&idx=1&sn=89dffe59405002e00fc888f4a2fadf04&chksm=fc13e1f6cb6468e0bc400add2088a5529f1a9ab92038dacc1505575b85abf8475b1ecdd5366d#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 176,
+      "cat": "daily",
+      "period": "2022-09-25 · 秋分",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "菜干"
+      ],
+      "star": false,
+      "name": "无花果南北杏菜干煲猪肺",
+      "ing": [
+        "猪肺1个、猪瘦肉200克",
+        "菜干50克",
+        "胡萝卜1个",
+        "南杏北杏共30克",
+        "无花果（干）6粒",
+        "陈皮1瓣",
+        "生姜",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "润肺抗燥，五官皮肤干、口干、大便干结者阖家宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《秋日干燥不用怕，阖家抗燥必备靓汤来咯》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652370642&idx=2&sn=7aac71c7b11955540fab7a86b7a4a09e&chksm=8b7470bbbc03f9ad3513ca15291ad392f4c7e7206170e782f74b99fc9fd00165667703d6f877#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 177,
+      "cat": "daily",
+      "period": "2022-09-17 · 秋分前后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "紫菜虾滑汤",
+      "ing": [
+        "鲜虾250克（或虾滑）、鸡蛋3只",
+        "紫菜半块",
+        "葱姜适量，淀粉",
+        "胡椒粉",
+        "盐",
+        "鸡精",
+        "料酒少量"
+      ],
+      "steps": [],
+      "note": "补肾壮阳、化痰软坚，秋燥补水兼优质蛋白",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《秋燥时节来碗汤，低脂利水抗早衰》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652369839&idx=2&sn=4c7c003490318b54cbdbc5df54e99c14&chksm=8b7475c6bc03fcd00604f6267ea80dc6af10449bcdb07fe21ed0338a95e59fd548641e733e93#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 178,
+      "cat": "expert",
+      "period": "2022-09-16 · 白露后",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "莲藕"
+      ],
+      "star": false,
+      "name": "墨鱼莲藕汤",
+      "ing": [
+        "鲜墨鱼1只（300-400克）或墨鱼干1只、猪骨半斤",
+        "鲜莲藕1-2节",
+        "花生米100克",
+        "陈皮5克"
+      ],
+      "steps": [
+        "煲1小时"
+      ],
+      "note": "清热润燥、滋阴养血，温燥时节岭南家常汤",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊｜墨鱼莲藕汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247496040&idx=1&sn=61751bed41ccc75766220b7dad749851&chksm=fc13e3ebcb646afd54936f449f824d8fda355ab56fa7caa648168dc1cb8aa099f1a93e56b51b#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 179,
+      "cat": "daily",
+      "period": "2022-09-13 · 白露前后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "补虚润肠汤",
+      "ing": [
+        "猪展250克",
+        "肉苁蓉30克",
+        "当归25克",
+        "枸杞子15克",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "补肾润肠，肠燥便秘、腰膝酸痛、精血不足者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《简简单单一碗汤，补虚润肠双管齐下》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652369403&idx=2&sn=146d902710ab8dda164983e090ebba2c&chksm=8ade0d0d79e0805bfbf94ae3910b24520ced2cd57cc6061d8f1c6e0ae05805ef5c43db048b96#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 180,
+      "cat": "daily",
+      "period": "2022-08-29 · 处暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "莲蓬猪骨汤",
+      "ing": [
+        "猪骨500克",
+        "新鲜莲蓬（含莲子）1个",
+        "红枣2颗",
+        "蜜枣2颗",
+        "陈皮1小瓣",
+        "茯苓10克",
+        "白扁豆20克",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "消瘀祛湿、健脾安神，初秋暑湿未清者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《吃完的莲蓬不要丢，用来煲汤还有消瘀散血、止血、祛湿的作用》",
+      "url": "https://www.peopleapp.com/rmharticle/30030081728",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 181,
+      "cat": "daily",
+      "period": "2022-08-09 · 立秋前后",
+      "tags": [
+        "补气血",
+        "强筋骨"
+      ],
+      "star": false,
+      "name": "大力牛膝汤",
+      "ing": [
+        "牛膝骨1个",
+        "杜仲30克",
+        "牛大力30克",
+        "牛膝15克",
+        "老陈皮1瓣",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "祛风湿、强筋骨，“以形补形”，湿重腰酸关节不利者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《以形补形，强骨健骨，试试这道汤》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652363319&idx=4&sn=229cf22d757f7636dad35f7a8234d975&chksm=8b745c5ebc03d5483f9a71f04a546df5fd8ce1004814052f7793fd368c7fc349c5ba42515be5#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 182,
+      "cat": "expert",
+      "period": "2022-07-25 · 大暑前",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "土茯苓扁豆薏仁汤",
+      "ing": [
+        "排骨250克",
+        "土茯苓60克",
+        "扁豆30克",
+        "薏苡仁30克",
+        "芡实30克",
+        "陈皮5克"
+      ],
+      "steps": [
+        "煲1小时"
+      ],
+      "note": "清热解毒、健脾祛湿，艳阳天防暑降温",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「食疗药膳」《【食疗药膳】土茯苓扁豆薏仁汤》",
+      "url": "https://static.nfapp.southcn.com/content/202207/25/c6720000.html",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 183,
+      "cat": "daily",
+      "period": "2022-07-02 · 小暑前后",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "莲藕"
+      ],
+      "star": false,
+      "name": "绿莲素汤",
+      "ing": [
+        "无（纯素）",
+        "莲藕1,000克",
+        "绿豆50克",
+        "眉豆50克",
+        "马蹄10个",
+        "陈皮2瓣",
+        "生姜5片",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "健胃消食、清热利湿，口气重、易饱滞及素食者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《这道汤膳能健胃消食》",
+      "url": "https://www.peopleapp.com/rmharticle/30029214558",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 184,
+      "cat": "expert",
+      "period": "2022-06-17 · 父亲节",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "苁蓉拨千斤",
+      "ing": [
+        "牛腱半斤",
+        "肉苁蓉30克",
+        "千斤拔60克",
+        "花生50克",
+        "生姜1块",
+        "陈皮1瓣"
+      ],
+      "steps": [
+        "水6碗煲1小时"
+      ],
+      "note": "补肾润肠、舒筋活络，岭南南药强壮汤",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊｜苁蓉拨千斤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247494194&idx=1&sn=f8c848ba892e6718aea03f5fd2a61911&chksm=fc13f8b1cb6471a744b7779091f6c2f9422551ee9c12491b5784b65b4b9042c8fdea1e15c0cc#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 185,
+      "cat": "expert",
+      "period": "2022-06-03 · 端午前后湿热",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "陈皮黑豆生鱼汤",
+      "ing": [
+        "生鱼／鲫鱼500g、瘦肉100g",
+        "黑豆30g",
+        "陈皮10g",
+        "生姜2片"
+      ],
+      "steps": [],
+      "note": "补肾益阴、健脾利水，产后哺乳期月经后女性宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】夏季炖汤做菜加“陈皮”，理气健脾又燥湿》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652022606&idx=3&sn=c79c0191ead612189620945a7270f1c2&chksm=84c325c36012f70d6f03cee1a279cfad76eb352c8218623d0bda40c7add4de6f92d5de82cb5c#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 186,
+      "cat": "expert",
+      "period": "2022-06-03 · 同上",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "陈皮灵芝老鸭汤",
+      "ing": [
+        "老鸭1只",
+        "灵芝50g",
+        "陈皮5至8g",
+        "生姜2片",
+        "蜜枣1颗"
+      ],
+      "steps": [],
+      "note": "祛湿补气、养心安神，助脾胃运化，暴雨湿闷天适用",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 187,
+      "cat": "daily",
+      "period": "2022-06-02 · 芒种前后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "鲤鱼赤小豆汤",
+      "ing": [
+        "鲤鱼1条（约500克，只取鱼肉）",
+        "赤小豆150克",
+        "盐适量（可加生姜）"
+      ],
+      "steps": [],
+      "note": "健脾和胃、利水消肿，方出《外台秘要》",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 188,
+      "cat": "daily",
+      "period": "2022-05-23 · 小满前后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "五指毛桃红枣炖排骨",
+      "ing": [
+        "猪排骨350克",
+        "五指毛桃100克",
+        "玉竹30克",
+        "红枣6个（去核）",
+        "生姜3片",
+        "盐适量"
+      ],
+      "steps": [
+        "题为“炖”实为慢火煮1小时"
+      ],
+      "note": "健脾化湿、养阴补中，气血不足、脾胃虚弱者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《健脾化湿，养阴润燥，补中益气》",
+      "url": "https://www.peopleapp.com/rmharticle/30027948395",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 189,
+      "cat": "expert",
+      "period": "2022-05-14 · 立夏后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "莲子百合瘦肉汤",
+      "ing": [
+        "猪瘦肉300g",
+        "莲子30g",
+        "百合30g"
+      ],
+      "steps": [],
+      "note": "清心润肺、益气安神，困倦神疲体检无异常者",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】困倦、神疲，不妨试试这两款药膳》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMjE3NjM2Nw==&mid=2653779656&idx=1&sn=ff964d2dd3321a7bb6374bfc134051d4&chksm=8178c89194a99a0a2ce66be41dd8faf4b413422054a458b7178529cc5ba23cde87eeb3857239#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 190,
+      "cat": "expert",
+      "period": "2022-05-06 · 立夏",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "灵芝山药枸杞骨头汤",
+      "ing": [
+        "猪骨头250g",
+        "灵芝50g",
+        "枸杞5g",
+        "淮山15至20g"
+      ],
+      "steps": [],
+      "note": "健脾益胃、益精明目、扶正抗癌，亚健康老少咸宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】灵芝山药枸杞骨头汤，一道老少咸宜的养生防癌汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652021704&idx=2&sn=ce099cb0cfa1acbfe66fd69cc16f6661&chksm=84361686464624a536d428968bcfde81eb9a89f7cfcf7dcbf6b7bc516e6a6194d18283b47c0e#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 191,
+      "cat": "daily",
+      "period": "2022-04-27 · 谷雨前后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "五指毛桃陈皮生姜煲脊骨",
+      "ing": [
+        "猪脊骨250克",
+        "五指毛桃100克",
+        "陈皮1瓣",
+        "生姜3片",
+        "盐适量"
+      ],
+      "steps": [
+        "小火煲1小时"
+      ],
+      "note": "益气化湿、补而不上火，气虚夹湿、虚不受补者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《五指毛桃配脊骨，祛湿补气妥妥的》",
+      "url": "https://www.peopleapp.com/rmharticle/30027577796",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 192,
+      "cat": "daily",
+      "period": "2022-03-07 · 惊蛰（回南天）",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "芡实薏仁陈皮煲老鸭",
+      "ing": [
+        "老鸭300克",
+        "芡实30克",
+        "薏米30克",
+        "陈皮1瓣",
+        "生姜5片",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "祛湿健脾、清补五脏，解春困，回南天佳品",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《益气补虚、解春困乏力的老鸭汤》",
+      "url": "https://www.peopleapp.com/rmharticle/30026838137",
+      "alsoIn": [],
+      "origin": "daily-repost",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 193,
+      "cat": "expert",
+      "period": "2021-12-10 · 大雪后",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "千斤拔凤爪鹿筋汤",
+      "ing": [
+        "鲜鸡爪5只、干鹿筋30克",
+        "千斤拔50克",
+        "红枣3枚"
+      ],
+      "steps": [
+        "煲2-3小时"
+      ],
+      "note": "补肾强筋、祛风活络，年老关节不利者冬补",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊千斤拔凤爪鹿筋汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247492079&idx=1&sn=ba27a9a8b6544962ad18ae9ef315f668&chksm=fd6e55f92f29f921906cab86e204bc041e66f711f14c09036587fff864530f647ac20b344898#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 194,
+      "cat": "expert",
+      "period": "2021-12-03 · 大雪",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "淮山"
+      ],
+      "star": false,
+      "name": "苁蓉枸杞山药羊肉汤",
+      "ing": [
+        "羊肉1斤",
+        "肉苁蓉30克",
+        "枸杞15克",
+        "鲜山药1根",
+        "红枣2-3枚",
+        "陈皮5克",
+        "龙眼肉10克"
+      ],
+      "steps": [
+        "煲1-2小时"
+      ],
+      "note": "补益脾肾、养血润肠，冬令手足不温、便难",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊苁蓉枸杞山药羊肉汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247491917&idx=1&sn=0a89bb2a5465829342b4e70b21300660&chksm=fd20a023c56f311a021ce0e3a18a5d168e31ec6a95bd75c814d121c8fa4859a449eeec6211ae#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 195,
+      "cat": "daily",
+      "period": "2021-11-27 · 小雪前后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "黑豆花生羊肉汤",
+      "ing": [
+        "羊肉250克",
+        "黑豆50克",
+        "花生50克",
+        "干木耳10克",
+        "大枣10颗",
+        "生姜2片",
+        "盐适量"
+      ],
+      "steps": [
+        "瓦煲煲2小时"
+      ],
+      "note": "补肾温阳、健脾益气，冬季畏寒瘦弱者宜",
+      "caution": "—",
+      "src": "广东省中医院「每日一膳」《冬季补肾温阳，来一碗黑豆花生羊肉汤》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA3MTMwMg==&mid=2652329171&idx=3&sn=706d2137679693bd92d4c4bc33b9be58&chksm=8a4434f5eb9f6dd973d947759379f89883236901e08091e52693687c5fdf27198a5f19a7998e#rd",
+      "alsoIn": [],
+      "origin": "daily",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 196,
+      "cat": "expert",
+      "period": "2021-09-11 · 白露前后",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "沙参玉竹百合瘦肉汤",
+      "ing": [
+        "瘦肉250g",
+        "沙参20g",
+        "玉竹10g",
+        "干百合20g"
+      ],
+      "steps": [],
+      "note": "养阴润燥、除烦止渴，秋燥口鼻干、熬夜上班族宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】秋季养生多选“白色”，雪梨炖银贝、杏仁百合、燕窝冰糖……生津润肺》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652016155&idx=1&sn=aa6d687a44bc8de1188501b477c0a2f5&chksm=84fe0065b34495258bea140ad4dd9bb4eed51c4a3d64dbaf3198789745e84e22d50e6bddcf79#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 197,
+      "cat": "expert",
+      "period": "2021-08-06 · 立秋前（窗口外）",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "淮山"
+      ],
+      "star": false,
+      "name": "椰汁淮杞鸡汤",
+      "ing": [
+        "鸡半只",
+        "椰子1个",
+        "鲜山药1根",
+        "枸杞15克",
+        "陈皮5克"
+      ],
+      "steps": [
+        "炖盅隔水炖2-3小时"
+      ],
+      "note": "清润养颜、补中益气，三伏末隔水炖品",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊椰汁淮杞鸡汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247490456&idx=1&sn=cc5e288fd3ab5c3d73aa5db5f7df95c5&chksm=fd0ba0086b43dcb0eb684931f08eb565926d70ba7d214070d365399cfa1c426510f30c7c1df9#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 198,
+      "cat": "expert",
+      "period": "2021-07-11 · 小暑将入伏",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "陈皮薏苡仁冬瓜汤",
+      "ing": [
+        "瘦肉或老鸭500g",
+        "薏苡仁50g",
+        "冬瓜500g",
+        "陈皮5至8g",
+        "生姜2片",
+        "蜜枣1颗"
+      ],
+      "steps": [],
+      "note": "健脾利水祛暑、助运化，补夏季汗多之耗，孕妇不宜",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】炎炎夏日“冬瓜薏苡仁汤”别忘+陈皮更养生》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652014813&idx=3&sn=582a7b3a20cc4abace6a166376d0904f&chksm=84551246baae106febdef0156b81a7fef9350467c39d5260ad5c0ba9952da5cf30053ca71026#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 199,
+      "cat": "expert",
+      "period": "2020-10-23 · 霜降（窗口外）",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "川芎白芷鱼头汤",
+      "ing": [
+        "草鱼头1个",
+        "川芎10克",
+        "白芷10克",
+        "生姜3片"
+      ],
+      "steps": [
+        "煎黄后隔水炖1小时"
+      ],
+      "note": "祛风散寒、通窍止痛，感冒初起头痛鼻塞",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊川芎白芷鱼头汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247486468&idx=1&sn=5b601848cda2c4a8f4b9f2e4943608b1&chksm=fd9be707b4e1c3a82e1a40d16e45a78effcab37eb6eb34f5014751f3dc85d09a58a39c77011a#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 200,
+      "cat": "expert",
+      "period": "2020-08-14 · 立秋后（窗口外）",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "松茸枸杞乌鸡汤",
+      "ing": [
+        "乌鸡1只",
+        "鲜松茸3根",
+        "枸杞子15克",
+        "红枣2枚"
+      ],
+      "steps": [
+        "隔水炖2小时"
+      ],
+      "note": "滋阴养血、滋养肝肾，秋燥初起炖盅汤",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊松茸枸杞乌鸡汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247485834&idx=1&sn=7b99b8ad9647bd3c28f6489a6aa2b0c1&chksm=fd9c462c8244725dac843ee5d59f7fd99019c60491afe891ef77b6e15b312fec6790f46d1455#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 201,
+      "cat": "expert",
+      "period": "2020-08-13 · 立秋",
+      "tags": [
+        "滋阴",
+        "润燥",
+        "莲藕"
+      ],
+      "star": false,
+      "name": "红莲百合莲藕汤",
+      "ing": [
+        "汤骨250g",
+        "红莲20g",
+        "百合10g",
+        "莲藕250g"
+      ],
+      "steps": [],
+      "note": "去火润燥养心，立秋“喝秋水”补夏耗",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】“荷莲一身宝，秋藕最补人”红莲百合莲藕汤秋季养生之选》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652025673&idx=2&sn=c6c52c696770692585590718f8b1f60b&chksm=85265d82b251d494a64fc2aa2c8a0d9ef155a7d003114f931698a3aa2a2baa027281e88243fc#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "秋"
+      ]
+    },
+    {
+      "id": 202,
+      "cat": "expert",
+      "period": "2020-08-03 · 大暑",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "冬瓜薏米骨头汤",
+      "ing": [
+        "排骨250g",
+        "薏米30g",
+        "冬瓜200g",
+        "生姜"
+      ],
+      "steps": [],
+      "note": "利尿解暑、健脾渗湿，大小暑节气汤",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】暑气逼人身体不适，来碗“冬瓜薏米骨头汤”味道鲜美祛暑湿》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652005713&idx=4&sn=9013519293f02569ce3b6a8bd54f77e9&chksm=846e53a9c7f4763d242354bbda14323bee81a4cd1d1642d0b2530a324d71eb2e097307126557#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "夏"
+      ]
+    },
+    {
+      "id": 203,
+      "cat": "expert",
+      "period": "2020-03-27 · 春分后春困",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "山药芡实骨头汤",
+      "ing": [
+        "脊骨或龙骨500g",
+        "干山药30g（或鲜山药1根）",
+        "芡实（干）30g"
+      ],
+      "steps": [],
+      "note": "祛湿健脾、固肾止泻，春季“犯困”精选",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】第三十九期：山药芡实骨头汤，祛湿健脾，春季“犯困”精选》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMjE3NjM2Nw==&mid=2653745681&idx=1&sn=0bafaeb03cb66555da09dac2bdac4ee9&chksm=81e43e47694a9a25af791caa707fa9bb9775569f0d5f9c351beb07cff4db33f8e82d158d5177#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 204,
+      "cat": "expert",
+      "period": "2020-03-11 · 惊蛰后（栏目上线初期）",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "五指毛桃土茯苓龙骨汤",
+      "ing": [
+        "龙骨250g",
+        "五指毛桃50g",
+        "土茯苓30g",
+        "红枣（去核）2颗"
+      ],
+      "steps": [],
+      "note": "健脾胃、祛湿困、壮腰骨，大人小孩均可，椰香不燥",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】湿重体乏、咽喉不畅，用五指毛桃土茯苓煲汤，清甜更健康》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652002406&idx=1&sn=f9655e548a63e6d92760376781168c37&chksm=84afbe24c111f163197433b283e20e4983fb0f71ee4f14cafc25e0593809b688957d33ad343a#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 205,
+      "cat": "expert",
+      "period": "2020-03-09",
+      "tags": [
+        "平补"
+      ],
+      "star": false,
+      "name": "天麻鱼头豆腐汤",
+      "ing": [
+        "大头鱼鱼头1个、豆腐1块",
+        "天麻10g",
+        "红枣（去核）2颗",
+        "枸杞3g",
+        "姜3片"
+      ],
+      "steps": [],
+      "note": "平肝祛风止头痛、健脑延缓衰老，中老年汤选",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】第二十八期：天麻鱼头豆腐汤，补脑祛风止头痛》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMjE3NjM2Nw==&mid=2653745185&idx=1&sn=916ebc351cdb1710e50dba58c8dafa8f&chksm=81bc6de9ae6ea59ae6c0c68c2a45d4f5664890f561ba9a6b15661015608a74fb58bbb51921b6#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 206,
+      "cat": "expert",
+      "period": "2020-02-25",
+      "tags": [
+        "健脾",
+        "祛湿",
+        "淮山"
+      ],
+      "star": false,
+      "name": "北芪党参健脾祛湿汤",
+      "ing": [
+        "猪扇骨／龙骨／大骨250g",
+        "北芪10g",
+        "党参10g",
+        "薏苡仁10g",
+        "白扁豆10g",
+        "芡实10g",
+        "淮山10g",
+        "莲子10g",
+        "红枣10g",
+        "陈皮5g"
+      ],
+      "steps": [],
+      "note": "心脾肺肾俱养、健脾祛湿益肺固表，疫期“调内环境”方",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】春寒料峭“疫”无情，健脾祛湿保安宁》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA3MDIxMjUxNg==&mid=2652002357&idx=4&sn=b3c4cc4df10aa058d486f518d6147bdc&chksm=84bb58196b09b5ac461114d85eeef276d0d5c7028ccf5af0754883c8193c5189ba1c0a3747cb#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 207,
+      "cat": "expert",
+      "period": "2020-02-20 · 立春后",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "黄芪党参瘦肉汤",
+      "ing": [
+        "瘦肉250g",
+        "黄芪30g",
+        "党参15g",
+        "枸杞5g"
+      ],
+      "steps": [],
+      "note": "补正气、疗虚损、健脾胃，易感冒自汗气短者宜，热症少食",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】第十一期：黄芪党参瘦肉汤，补虚正气，延年益寿之选》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMjE3NjM2Nw==&mid=2653744774&idx=1&sn=67748c7fcf88556a6f02c63e4d7cfd98&chksm=814b4965d94cde24bd850c2ab3aaf0d795313a8d19f5f16d58d60cd7b554336d0ea112a62abb#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 208,
+      "cat": "expert",
+      "period": "2020-02-16 · 雨春湿冷",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "鲜紫苏叶滚黄骨鱼汤",
+      "ing": [
+        "黄骨鱼400g",
+        "鲜紫苏叶80g",
+        "生姜3片"
+      ],
+      "steps": [],
+      "note": "养阳健脾、祛湿醒胃、解鱼虾毒，春湿冬冷宜，滚汤10分钟即成",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】第八期：鲜紫苏叶滚黄骨鱼汤，养阳健脾祛湿醒胃》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMjE3NjM2Nw==&mid=2653744704&idx=1&sn=1dcf99b457f10fd218abf34338b90d05&chksm=811a27727b5d9301a88cee7e2fd11b86f70af53409d29cedaf272394e98162b4eca069fe5f2d#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 209,
+      "cat": "expert",
+      "period": "2020-02-12 · 疫情初期",
+      "tags": [
+        "滋阴",
+        "润燥"
+      ],
+      "star": false,
+      "name": "玉竹沙参老鸭汤",
+      "ing": [
+        "老鸭1只",
+        "玉竹50g",
+        "沙参50g",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐适量"
+      ],
+      "steps": [],
+      "note": "滋阴清润、去疾补虚，高蛋白低脂；感冒发热痰湿者忌",
+      "caution": "—",
+      "src": "深圳市中医院「药膳食疗」《【药膳食疗】第五期：滋阴益肺，去疾补虚！玉竹沙参老鸭汤，营养又免疫》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxMjE3NjM2Nw==&mid=2653744673&idx=1&sn=5f4f20c442a3beda33a85fb312f3fef2&chksm=81d09f18b68df035267a64e8497a19963a887ad954f83b6b97070ec0d7f46f5d1928800c8dae#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 210,
+      "cat": "expert",
+      "period": "2019-12-27 · 一九（窗口外）",
+      "tags": [
+        "温补"
+      ],
+      "star": false,
+      "name": "黄精黑豆黑枣汤",
+      "ing": [
+        "猪腱或排骨（原文未标克数）",
+        "黄精100克",
+        "黑豆200克",
+        "黑枣3枚",
+        "生姜2块",
+        "陈皮1片",
+        "料酒少许"
+      ],
+      "steps": [],
+      "note": "养血暖身，血虚经后小腹隐痛、头晕目眩者宜",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「岭南药膳坊」《岭南药膳坊黄精黑豆黑枣汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzU1OTgyNjkyNA==&mid=2247484676&idx=1&sn=cc467c3818f951af33df89b026720cda&chksm=fdb6cf4f0caaa96206c1a727ff196f6bfad80da3c8fef0ffa796059c878f57acabea8c9b8d09#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "冬"
+      ]
+    },
+    {
+      "id": 211,
+      "cat": "expert",
+      "period": "2019-04-24 · 春末（窗口外）",
+      "tags": [
+        "健脾",
+        "祛湿"
+      ],
+      "star": false,
+      "name": "夏枯草茵陈横脷汤",
+      "ing": [
+        "猪横脷1条（约300克）、猪瘦肉250克",
+        "夏枯草30克",
+        "绵茵陈30克",
+        "广陈皮10克",
+        "无花果4只",
+        "白酒少许"
+      ],
+      "steps": [],
+      "note": "清热利湿、消痰散结，春夏之交湿热体质",
+      "caution": "—",
+      "src": "广州中医药大学第一附属医院「食疗药膳」《【食疗药膳】夏枯草茵陈横脷汤》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5ODc2ODExMA==&mid=2651026823&idx=1&sn=c1e78e00cb97817810e6fc97079d1f8d&chksm=8a91c6771e4fd8dd03efa05758e13253a0cdea8275adf54a3a808250b3cc90996a7c82031faa#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 212,
+      "cat": "expert",
+      "period": "2015-03-06 · 惊蛰",
+      "tags": [
+        "补气血",
+        "强筋骨"
+      ],
+      "star": false,
+      "name": "猪心枣仁汤",
+      "ing": [
+        "猪心1个",
+        "酸枣仁15克",
+        "茯苓15克",
+        "远志5克，盐",
+        "味精适量"
+      ],
+      "steps": [],
+      "note": "补血养心、益肝宁神，治心肝血虚心悸失眠",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」《惊蛰到！如何调养身体预防疾病？》",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzA5MDU4ODAzNQ==&mid=203941925&idx=1&sn=d7255742770a184b30966683058b0785&chksm=18e0a57dccb9742370c1f99b8695284f22da5f119a9c86bbfae4c1f03d389ccf4656add8f2c7#rd",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
+      ]
+    },
+    {
+      "id": 213,
+      "cat": "expert",
+      "period": "2015-03-06 · 惊蛰",
+      "tags": [
+        "补气血",
+        "强筋骨"
+      ],
+      "star": false,
+      "name": "炖龙眼党参鸽肉汤",
+      "ing": [
+        "白鸽肉150克",
+        "龙眼肉30克",
+        "党参30克"
+      ],
+      "steps": [],
+      "note": "滋肝肾、益脾气，适腰膝酸软、心悸健忘",
+      "caution": "—",
+      "src": "中山大学附属第一医院「二十四节气」（原文链接未收录）",
+      "url": "",
+      "alsoIn": [],
+      "origin": "media",
+      "dupGroup": "",
+      "season": [
+        "春"
       ]
     }
   ],
