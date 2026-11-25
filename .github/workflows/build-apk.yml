@@ -35,7 +35,8 @@ jobs:
           F="app/src/main/assets/www/index.html"
           sed -i "s|__OWNER__|$OWNER|g; s|__REPO__|$REPO|g" "$F"
           echo "更新源 = https://raw.githubusercontent.com/$OWNER/$REPO/main/soups.json"
-          grep -c "raw.githubusercontent.com/$OWNER/$REPO" "$F"
+          grep -F "var OWNER='$OWNER', REPO='$REPO'" "$F"
+          if grep -q "__OWNER__" "$F"; then echo "仲有未替换好嘅占位符"; exit 1; fi
 
       - name: 装 Gradle 8.7（直接下载固定版，唔使 wrapper jar，工程干净啲）
         run: |
